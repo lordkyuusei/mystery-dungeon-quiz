@@ -1,0 +1,4181 @@
+[
+    {
+        "answers": [
+            {
+                "answer": "I'm not giving up yet!",
+                "id": 0,
+                "scores": [
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Just give up.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4
+                ]
+            },
+            {
+                "answer": "Shout, \"START OVER!\"",
+                "id": 2,
+                "scores": [
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 0,
+        "question": "You're running a marathon, and at the start you fall flat on your face! What will you do?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "An action movie.",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0
+                ]
+            },
+            {
+                "answer": "A drama.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "A romantic movie.",
+                "id": 2,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4
+                ]
+            }
+        ],
+        "id": 1,
+        "question": "You're at a movie theater. What are you there to see?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Working hard, every day.",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "If I remember to...",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4
+                ]
+            },
+            {
+                "answer": "I just cover what I need to.",
+                "id": 2,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "I can't really do it alone...",
+                "id": 3,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 2,
+        "question": "What's your studying style?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Do it myself.",
+                "id": 0,
+                "scores": [
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Ask someone to help.",
+                "id": 1,
+                "scores": [
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Make someone else do it!",
+                "id": 2,
+                "scores": [
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 3,
+        "question": "You've been asked to do a difficult task. What will you do?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Of course.",
+                "id": 0,
+                "scores": [
+                    4,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "That's not easy to admit!",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    4,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 4,
+        "question": "Are you truly sincere when you apologize?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Yes.",
+                "id": 0,
+                "scores": [
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "No.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Well, I never lose at sports!",
+                "id": 2,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0
+                ]
+            }
+        ],
+        "id": 5,
+        "question": "Do you think you have good study habits?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Scary...bathrooms!",
+                "id": 0,
+                "scores": [
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Go in there anyway.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    2,
+                    0,
+                    2,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 6,
+        "question": "There's a rumor around about a ghost haunting the school bathrooms! What do you do?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Don't tell anyone.",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Let everyone know.",
+                "id": 1,
+                "scores": [
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "First come, first served!",
+                "id": 2,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0
+                ]
+            }
+        ],
+        "id": 7,
+        "question": "Everyone's sharing a dessert, and there's an extra piece. What do you do?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Always in a rush!",
+                "id": 0,
+                "scores": [
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0
+                ]
+            },
+            {
+                "answer": "Always perfect.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "They are OK.",
+                "id": 2,
+                "scores": [
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 8,
+        "question": "How are your mornings?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Nothing, really.",
+                "id": 0,
+                "scores": [
+                    0,
+                    4,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Laugh along.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    2,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "It depends on the situation.",
+                "id": 2,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2
+                ]
+            }
+        ],
+        "id": 9,
+        "question": "Everyone around you is laughing hard at something you think is pretty boring. What do you do?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Show it a little by playing together.",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Make it obvious by...playing a prank!",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    2,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "State it clearly for all to hear!",
+                "id": 2,
+                "scores": [
+                    0,
+                    4,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0
+                ]
+            },
+            {
+                "answer": "Keep it to myself! It's too risky!",
+                "id": 3,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 10,
+        "question": "You want to reveal that you like someone a whole bunch! What do you do?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Run away! How embarrassing!",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Answer questions properly.",
+                "id": 1,
+                "scores": [
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Yuck it up! Woo-hoo! I'm on TV!",
+                "id": 2,
+                "scores": [
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 11,
+        "question": "You're on a stroll when a TV crew pounces on you for an interview. What do you do?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Yes.",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "No.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 12,
+        "question": "Do you like lively parties?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Stay on the sidelines.",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Sing along!",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Walk away.",
+                "id": 2,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 13,
+        "question": "The people at the next table are singing for someone's birthday. What do you do?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Roll on the floor laughing!",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Just let it go by...",
+                "id": 1,
+                "scores": [
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0
+                ]
+            },
+            {
+                "answer": "Who was that?!",
+                "id": 2,
+                "scores": [
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 14,
+        "question": "You're in a completely silent assembly when you suddenly hear someone pass gas! How do you react?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Yes.",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "No.",
+                "id": 1,
+                "scores": [
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 15,
+        "question": "Do you like karaoke?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Yes.",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0
+                ]
+            },
+            {
+                "answer": "No.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 16,
+        "question": "Do you prefer to play outside rather than inside?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Jump on it!",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Belly flop!",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0
+                ]
+            },
+            {
+                "answer": "Curl up.",
+                "id": 2,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 17,
+        "question": "You see a big and comfortable bed. Your first reaction is to..."
+    },
+    {
+        "answers": [
+            {
+                "answer": "Narrow.",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    4,
+                    0
+                ]
+            },
+            {
+                "answer": "Wide.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    4
+                ]
+            }
+        ],
+        "id": 18,
+        "question": "You're hiking up a mountain when you reach diverging paths. Which kind do you take?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Open it!",
+                "id": 0,
+                "scores": [
+                    0,
+                    4,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0
+                ]
+            },
+            {
+                "answer": "Get help opening it.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 19,
+        "question": "You discover a beat-up-looking treasure chest in some ruins. What do you do?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Help my friend up!",
+                "id": 0,
+                "scores": [
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Laugh! It's too funny!",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    4,
+                    0,
+                    4,
+                    0
+                ]
+            }
+        ],
+        "id": 20,
+        "question": "Your friend takes a spectacular fall! What do you do?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Get mad!",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Get sad.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Woo-hoo! Water fight!",
+                "id": 2,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    4,
+                    0
+                ]
+            }
+        ],
+        "id": 21,
+        "question": "You're daydreaming...when your friend sprays you with water! What do you do?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Yes.",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "No.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 22,
+        "question": "Have you ever thought that if you dug in your backyard you could find buried treasure?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Yes.",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    2,
+                    0
+                ]
+            },
+            {
+                "answer": "No.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 23,
+        "question": "Have you ever told a joke that just completely fell flat?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Don't do that! It scared me!",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "OK, I admit it. You tricked me.",
+                "id": 1,
+                "scores": [
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "No way. I didn't fall for it.",
+                "id": 2,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Huh? What?",
+                "id": 3,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 24,
+        "question": "Hey, what's that? There's someone behind you! So...did you look just now?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "\"Terrible!\"",
+                "id": 0,
+                "scores": [
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Just smile.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "\"Um, it's...good.\"",
+                "id": 2,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 25,
+        "question": "Your friend has made a meal that tastes terrible. They ask, \"How is it?\" You say...?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Make small talk.",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Say nothing!",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "answer": "Make an excuse to get away!",
+                "id": 2,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 26,
+        "question": "You run into a new person that you haven't talked to very much before. What do you do?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "The good news.",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "The bad news.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "I don't want either.",
+                "id": 2,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 27,
+        "question": "Good news and bad news... Which one do you want to hear first?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Yes.",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "No.",
+                "id": 1,
+                "scores": [
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 28,
+        "question": "Have you ever realized you were hogging the conversation?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Yes.",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "No.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 29,
+        "question": "When you see a switch, do you feel an overwhelming urge to flip it?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Buy it right away!",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Think about whether you need it.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Demand an even bigger discount!",
+                "id": 2,
+                "scores": [
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 30,
+        "question": "You find something at a great bargain price! What do you do?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Eat just a tiny bit.",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Hold myself back and pack it all up.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "What snacks? They're in my belly!",
+                "id": 2,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 31,
+        "question": "You're packing your classroom's snacks for a picnic when you get hungry. What do you do?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Totally!",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Of course not.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 32,
+        "question": "Do you want to be taller someday?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Of course!",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "No.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2
+                ]
+            }
+        ],
+        "id": 33,
+        "question": "Do you think it's important to always aim to be the best?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Certainly!",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Well, not really...",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 34,
+        "question": "Have you ever looked at your reflection in a mirror and thought, \"What a cool person\"?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Of course!",
+                "id": 0,
+                "scores": [
+                    0,
+                    4,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Not really.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 35,
+        "question": "If you saw someone doing something bad, could you scold them?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Being busy.",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Free time!",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "In between.",
+                "id": 2,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4
+                ]
+            }
+        ],
+        "id": 36,
+        "question": "Do you prefer to be busy or to have a lot of free time?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Whatever.",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Annoyed. I was here first!",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "I shed a few tears.",
+                "id": 2,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 37,
+        "question": "You're about to buy a popular game when someone else gets the last copy! How do you feel?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Heartbroken...",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Aaaargh!",
+                "id": 1,
+                "scores": [
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Bad timing, I guess...",
+                "id": 2,
+                "scores": [
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 38,
+        "question": "You notice that a toy you bought for full price yesterday is marked down to half price today! How do you feel?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Yes.",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    4,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Not at all!",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 39,
+        "question": "Your friend is running a little late to meet you. Is that OK?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Eat it. Who cares if I'm stuffed?",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Turn it down. It's too fattening!",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Yum! I love dessert the most!",
+                "id": 2,
+                "scores": [
+                    0,
+                    0,
+                    4,
+                    0,
+                    2,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 40,
+        "question": "You've just stuffed yourself with a good meal when a great dessert arrives. What do you do?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Study all night long.",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Wing it! I'm sure it will be fine!",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Test?! I think I have a fever...",
+                "id": 2,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 41,
+        "question": "You have a really important test tomorrow! What do you do?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Did something happen?",
+                "id": 0,
+                "scores": [
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Maybe I have the day wrong?",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Let's get this party started!",
+                "id": 2,
+                "scores": [
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 42,
+        "question": "You've been invited to a wonderful party. It's time for the party to start, but there's nobody there! You think...?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "All the time!",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Never.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 43,
+        "question": "Do you think that, no matter what, life goes on?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Answer right away!",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Wait a bit before answering.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Ignore it and let it ring.",
+                "id": 2,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 44,
+        "question": "The phone's ringing! What do you do?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "I want to go too!",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "No big deal.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Will they invite me?",
+                "id": 2,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 45,
+        "question": "Your friends seem to be making plans to hang out, just out of earshot. You think..."
+    },
+    {
+        "answers": [
+            {
+                "answer": "Yes.",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "No.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 46,
+        "question": "Do you want to be famous?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Wait until I get home to open it.",
+                "id": 0,
+                "scores": [
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Shake it!",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Open it!",
+                "id": 2,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "It's smaller than everyone else's...",
+                "id": 3,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 47,
+        "question": "You've been handed a large bag as a souvenir. What do you do?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Yes.",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4
+                ]
+            },
+            {
+                "answer": "No.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 48,
+        "question": "Have you ever forgotten you bought something and bought another one?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Yes.",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "No.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4
+                ]
+            }
+        ],
+        "id": 49,
+        "question": "Once you've decided something, do you see it through to the end?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Yes.",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4
+                ]
+            },
+            {
+                "answer": "No.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 50,
+        "question": "Have you ever said \"nice to meet you\" to someone you've met previously?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Of course!",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Nope.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4
+                ]
+            },
+            {
+                "answer": "What are those?",
+                "id": 2,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 51,
+        "question": "Did you make any New Year's resolutions?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Yes.",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "No.",
+                "id": 1,
+                "scores": [
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "I don't know.",
+                "id": 2,
+                "scores": [
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 52,
+        "question": "Do you think it's important to be fashionably late?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Woo-hoo!",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "I can't believe it...",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "This is my little secret.",
+                "id": 2,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 53,
+        "question": "You've won big on a raffle ticket! You say..."
+    },
+    {
+        "answers": [
+            {
+                "answer": "Of course!",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "No way!",
+                "id": 1,
+                "scores": [
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 54,
+        "question": "Do you think blaming something you did on someone else is sometimes necessary?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Maybe they're sick.",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "They're lost in thought.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "What?! Why?!",
+                "id": 2,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 55,
+        "question": "Your friend suddenly won't listen to you, when everything was fine yesterday. What happened?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Get embarrassed!",
+                "id": 0,
+                "scores": [
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Again?!",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "I meant to do that!",
+                "id": 2,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 56,
+        "question": "You take off your shoes to realize your socks are two different colors! What do you do?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Try and hide.",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Think of an excuse.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Drop down and play dead!",
+                "id": 2,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 57,
+        "question": "You fail miserably! Everyone found out, and they're disappointed in you... What do you do?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Yes.",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "No.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 58,
+        "question": "Have you ever accidentally called a teacher \"Mom\" or \"Dad\"?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Yes.",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "No.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 59,
+        "question": "Have you ever blurted something out without thinking about the consequences first?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Ask for permission to leave.",
+                "id": 0,
+                "scores": [
+                    0,
+                    4,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Sneak out.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Hold on until class ends!",
+                "id": 2,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 60,
+        "question": "You're in class when you realize that you really have to go to the restroom! What do you do?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "I'm there!",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Allow me.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Thanks...",
+                "id": 2,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4
+                ]
+            }
+        ],
+        "id": 61,
+        "question": "Your friend offers to treat you to dinner. What do you do?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Not a problem! Chow time!",
+                "id": 0,
+                "scores": [
+                    0,
+                    4,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Think about it briefly, then decide.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Get someone to try it first.",
+                "id": 2,
+                "scores": [
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 62,
+        "question": "You see a cake that is past its expiration date, but only by one day. What do you do?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Seared steak.",
+                "id": 0,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    0,
+                    4,
+                    0
+                ]
+            },
+            {
+                "answer": "Healthy fish.",
+                "id": 1,
+                "scores": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "answer": "Anything! It's all good!",
+                "id": 2,
+                "scores": [
+                    0,
+                    0,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "id": 63,
+        "question": "You're eating at a very fancy restaurant known for its food. Which course do you select?"
+    },
+    {
+        "id": 64,
+        "question": "Are you a boy, a girl or none of them?",
+        "answers": [
+            {
+                "id": 0,
+                "answer": "A girl.",
+                "scores": [
+                    1,
+                    0,
+                    0
+                ]
+            },
+            {
+                "id": 1,
+                "answer": "A boy.",
+                "scores": [
+                    0,
+                    1,
+                    0
+                ]
+            },
+            {
+                "id": 2,
+                "answer": "None of them.",
+                "scores": [
+                    0,
+                    0,
+                    1
+                ]
+            }
+        ]
+    }
+]

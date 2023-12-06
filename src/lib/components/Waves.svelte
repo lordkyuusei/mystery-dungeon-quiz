@@ -37,13 +37,14 @@
 <style>
     .svg {
         animation: gradient 8s linear infinite;
+        filter: blur(2px);
     }
 
     .layer-1 {
-        filter: opacity(0.6);
+        filter: blur(4px) opacity(0.6);
     }
 
     .layer-2 {
-        filter: opacity(0.2);
+        filter: blur(6px) opacity(0.2);
     }
 </style>

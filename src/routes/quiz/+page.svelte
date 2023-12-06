@@ -1,59 +1,74 @@
 <script lang="ts">
+    import { goto } from "$app/navigation";
+    import NarratorBox from "$lib/components/NarratorBox.svelte";
     import Waves from "$lib/components/Waves.svelte";
+    import quiz from "$lib/constants/quiz-pokemon.json";
     import typewriter from "$lib/transitions/typewriter";
-    const prompter = [
-        "What is your favorite type of cuisine?",
-        "If you could visit any place in the world, where would you go?",
-        "What's your go-to hobby when you have free time?",
-        "Do you prefer reading books or watching movies?",
-        "If you could have any superpower, what would it be and why?",
-        "What's your favorite way to relax after a long day?",
-        "If you could meet any fictional character, who would it be?",
-        "What's your dream job or career path?",
-        "If you were a time traveler, which era would you visit?",
-        "What's the most adventurous thing you've ever done?",
-        "Do you enjoy outdoor activities or prefer staying indoors?",
-        "If you could learn any skill instantly, what would it be?",
-        "What's your favorite type of music or favorite band?",
-        "If you could have dinner with any historical figure, who would it be and why?",
-        "Do you have any hidden talents or unusual hobbies?",
-    ];
+    import type {
+        PokemonMDAnswer,
+        PokemonMDQuestion,
+    } from "$lib/types/quiz-pokemon";
+    import { onMount } from "svelte";
+    import { fade } from "svelte/transition";
 
-    const answers = [
-        "Answer A.",
-        "Answer B.",
-        "Answer C.",
-        "None of the above.",
-    ];
+    let question: PokemonMDQuestion;
+    let answers: PokemonMDAnswer[];
+    let answered: number[] = [];
 
-    let prompterIndex = 0;
+    const answerQuestion = (
+        event: MouseEvent & { currentTarget: EventTarget & HTMLLIElement },
+    ) => {
+        if (answered.length === 16) {
+            goto("/result/me");
+        } else {
+            let random: number;
+            /* Special cases*/
+            if (answered.length === 15) {
+                random = 64;
+            } else if (answered[answered.length - 1] === 56) {
+                random = 57;
+            } else {
+                random = Math.floor(Math.random() * quiz.length - 1);
+                while (answered.some((answered) => answered === random)) {
+                    random = Math.floor(Math.random() * quiz.length - 1);
+                }
+            }
+            question = quiz.find((q) => q.id === random) ?? quiz[0];
+            answers = quiz[random].answers;
+            answered = [...answered, random];
+        }
+    };
+
+    onMount(() => {
+        answerQuestion(null);
+    });
 </script>
 
-<div class="background">
+<div class="background" in:fade>
     <Waves />
     <Waves layer={1} />
     <Waves layer={2} />
-</div>
-<div class="background" style="transform: rotate(180deg)">
-    <Waves />
-    <Waves layer={1} />
-    <Waves layer={2} />
-</div>
-<section id="mystery-dungeon-quiz-area">
-    <div class="quiz-answers">
-        <ul>
-            {#each answers as answer}
-                <li on:click={() => (prompterIndex += 1)}>{answer}</li>
-            {/each}
-        </ul>
+    <div class="background" style="transform: rotate(180deg)" in:fade>
+        <Waves />
+        <Waves layer={1} />
+        <Waves layer={2} />
     </div>
-    <div class="quiz-question">
-        {#key prompterIndex}
-            <p in:typewriter>
-                {prompter[prompterIndex]}
-            </p>
-        {/key}
-    </div>
+</div>
+<section id="mystery-dungeon-quiz-area" in:fade>
+    {#if question}
+        <div class="quiz-answers">
+            <NarratorBox>
+                <ul>
+                    {#each answers as answer}
+                        <li on:click={answerQuestion}>{answer.answer}</li>
+                    {/each}
+                </ul>
+            </NarratorBox>
+        </div>
+        <div class="quiz-question">
+            <NarratorBox text={question.question}></NarratorBox>
+        </div>
+    {/if}
 </section>
 
 <style>
@@ -66,6 +81,7 @@
         z-index: 0;
         padding: 0 0 1px;
     }
+
     #mystery-dungeon-quiz-area {
         position: relative;
         z-index: 1;
@@ -73,18 +89,19 @@
         width: 100%;
 
         display: grid;
+        align-content: end;
         grid-template:
-            ". ." 0.5fr
-            ". anwsers" 0.3fr
-            "question question" 0.2fr / auto min-content;
-        row-gap: 0.5rem;
+            ". ." 50%
+            ". anwsers" min-content
+            "question question" 25% / auto min-content;
+        row-gap: 1rem;
 
         & .quiz-answers {
             grid-area: anwsers;
 
             & ul {
-                margin: 0;
-                padding: 0;
+                margin: 0 !important;
+                padding: 0 2rem !important;
                 list-style-type: none;
                 width: 100%;
                 display: grid;
@@ -93,6 +110,8 @@
                 gap: 0.5rem;
 
                 & li {
+                    display: flex;
+                    align-items: center;
                     position: relative;
                     font-size: 3rem;
                     width: 100%;
@@ -102,13 +121,13 @@
                     &:hover::before {
                         content: "";
                         position: absolute;
-                        left: -1rem;
-                        top: calc(50% - 1rem);
+                        left: -2rem;
+                        top: calc(50% - 0.75rem);
                         border: 0;
-                        border-left: 0.5rem solid white;
-                        border-right: 0.5rem solid transparent;
-                        border-top: 0.5rem solid transparent;
-                        border-bottom: 0.5rem solid transparent;
+                        border-left: 0.75rem solid white;
+                        border-right: 0.75rem solid transparent;
+                        border-top: 0.75rem solid transparent;
+                        border-bottom: 0.75rem solid transparent;
                     }
                 }
             }
@@ -116,20 +135,6 @@
 
         & .quiz-question {
             grid-area: question;
-
-            & p {
-                margin: 0;
-                font-size: 3rem;
-            }
-        }
-
-        & :is(.quiz-answers, .quiz-question) {
-            border-inline: 1rem solid var(--box-border-question);
-            border-block: 0.5rem solid var(--box-border-question);
-            border-radius: 1rem;
-
-            padding: 1rem 1.5rem;
-            background-color: var(--box-background);
         }
     }
 </style>

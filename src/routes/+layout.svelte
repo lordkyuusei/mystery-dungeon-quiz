@@ -1,5 +1,12 @@
 <script>
     import { page } from "$app/stores";
+    import { onMount } from "svelte";
+
+    onMount(() => {
+        const audio = new Audio("/quiz-music.ogg");
+        audio.loop = true;
+        audio.play();
+    });
 </script>
 
 <main id="mystery-dungeon-quiz" class={$page.route.id}>
