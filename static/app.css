@@ -1,0 +1,99 @@
+:root {
+    --box-background: hsl(0, 0%, 13%);
+    --box-border-text: hsl(219, 91%, 71%);
+    --box-border-question: hsl(120, 53%, 61%);
+    --text-color: hsl(240, 15%, 89%);
+
+    --wave-background-red-dark: hsl(6, 100%, 49%);
+    --wave-background-red-light: hsl(14, 100%, 49%);
+    --wave-background-orange-dark: hsl(17, 100%, 49%);
+    --wave-background-orange-light: hsl(37, 94%, 52%);
+    --wave-background-yellow-dark: hsl(44, 94%, 56%);
+    --wave-background-yellow-light: hsl(52, 93%, 61%);
+    --wave-background-green: hsl(153, 100%, 49%);
+    --wave-background-blue-dark: hsl(191, 94%, 55%);
+    --wave-background-blue-light: hsl(215, 93%, 63%);
+    --wave-background-violet: hsl(235, 87%, 78%);
+    --wave-background-pink-light: hsl(300, 85%, 82%);
+    --wave-background-pink-dark: hsl(335, 91%, 71%);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: PkmnMysteryDungeon;
+    src: url(PKMN-Mystery-Dungeon.ttf);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+
+    font-family: PkmnMysteryDungeon;
+}
+
+@keyframes twinkle {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes gradient {
+    0% {
+        fill: var(--wave-background-red-dark);
+    }
+
+    8% {
+        fill: var(--wave-background-red-light);
+    }
+
+    16% {
+        fill: var(--wave-background-orange-dark);
+    }
+
+    24% {
+        fill: var(--wave-background-orange-light);
+    }
+
+    32% {
+        fill: var(--wave-background-yellow-dark)
+    }
+
+    40% {
+        fill: var(--wave-background-yellow-light)
+    }
+
+    48% {
+        fill: var(--wave-background-green)
+    }
+
+    56% {
+        fill: var(--wave-background-blue-dark)
+    }
+
+    64% {
+        fill: var(--wave-background-blue-light)
+    }
+
+    72% {
+        fill: var(--wave-background-violet)
+    }
+
+    80% {
+        fill: var(--wave-background-pink-light)
+    }
+
+    88% {
+        fill: var(--wave-background-pink-dark)
+    }
+
+    100% {
+        fill: var(--wave-background-red-dark)
+    }
+}
