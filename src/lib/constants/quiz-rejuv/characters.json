@@ -1,0 +1,597 @@
+[
+    {
+        "id": "6003686",
+        "character": "Spector",
+        "description": "You're the quiet one and are prone to get lost in thought... until someone asks you about your hyperfixation, which is when you will start rambling. Maybe it unintentionally causes people to think of you as a bit weird, but honestly you don't really care what others think anyways. You're straightforward and an open book when it comes to your intentions and thoughts. Oh, and bonus points if you've got a deep interest in the paranormal! Or at least believe in the spiritual or supernatural. Maybe not so much in the more fear mongering kind of superstition, though.",
+        "adjective": "quiet",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701695121_259851eb-c906-4d4d-92fc-b7d15868cb57.jpg"
+    },
+    {
+        "id": "6003210",
+        "character": "Melia",
+        "description": "You care deeply for your friends and are generally pretty clever, though you might dislike math. However, you're much too self-sacrificial and are prone to pushing away people and trying to do everything by yourself without wanting to ask for help. Remember to take a break, please.",
+        "adjective": "caring",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701688505_e65cafed-9f9f-44e8-b531-91fba60eb249.jpg"
+    },
+    {
+        "id": "6003290",
+        "character": "Ren",
+        "description": "You're loyal, and would do anything for those you hold dear. You're not one to give up halfway through, even if the situation is precarious. However, you may sometimes get a bit tunnel visioned and lose sight of what's really important, as well as maybe having some trouble communicating how you truly feel about things. Oh, and I guess you might be into robots or had an emo phase at some point or something. But that's a bit of a sidenote!",
+        "adjective": "loyal",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701688491_04fc0799-88fb-4cef-a8d4-ef55e064972e.jpg"
+    },
+    {
+        "id": "6009920",
+        "character": "Delpha",
+        "description": "You're witty, determined and a little bit dramatic, but it's all part of your charm. You care a great deal for your friends and even though you may not like some of the situations they get themselves in and have objections to their actions if they could potentially get themselves hurt, you do your best to support them in the ways that you can. However, you do harbor some self doubt about your own abilities, and may sometimes hesitate when opportunities arise to overcome these doubts. Have a bit more faith in yourself- there is a lot of hidden strength in you, and you will only start to truly shine when you realize you're capable of so much more than you think.",
+        "adjective": "dramatic",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701780890_74107ee3-ab0b-4d07-83b8-cc47c522c3dc.jpg"
+    },
+    {
+        "id": "6003589",
+        "character": "Marianette",
+        "description": "You're gentle, kind and smart with an analytical mind. However, you're a bit meek and perhaps because you've been living a somewhat sheltered life you might be scared of stepping out of your comfort zone. You probably have issues with your family, and lack the confidence to confront them about their behavior. But hey, you're learning to be braver every day! You'll get there eventually and shall find the strength you need to break out of your shell.",
+        "adjective": "kind",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701694152_1aa21278-170d-4e8f-a338-415697a32bc6.jpg"
+    },
+    {
+        "id": "6005321",
+        "character": "Anathea",
+        "description": "You are a loving person and welcome people with open arms. You generally care a lot for your family and show hospitality to people who show kindness to you as well. Even though you're generally a very amicable person, do you by chance have a hidden side to you that's maybe a bit manipulative and paranoid? You're scared that people close to you will betray you and will ask others to keep an eye out for you if they are talking about you behind your back. But you know, sometimes you gotta learn that it's simply not worth to stick around people who are clearly unhealthy for you- you don't want to end up developing Stockholm Syndrome.",
+        "adjective": "loving",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701712498_ca8605d7-c9d3-4ce7-909f-4e186ad44380.jpg"
+    },
+    {
+        "id": "6007006",
+        "character": "Zetta",
+        "description": "You're snarky, quick-witted yet somewhat easily irritated. However, you're persistent as well, and as a result you're more than capable of turning the tables in your favor if things go wrong. You have a strong sense of morality, but you may lack the initiative to actually voice your concerns when someone acts opposed from them. Really, it might be because you're a bit codependent on your companions that you don't want to speak out against them as you don't want them to turn against you. Still, try to speak your mind when you feel it's necessary; you might regret it if you don't say it when you still can.",
+        "adjective": "snarky",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701726666_b3f7c2de-eff9-4dc1-8cc7-e41987d538c4.jpg"
+    },
+    {
+        "id": "6003332",
+        "character": "Nim",
+        "description": "Bubbly and energetic, you try to be a friend to everyone and are a true people pleaser. You fret about other people's well-being, but because you care so much about other people's feelings you have a good sense for the boundaries of others and respect their wishes if they want to do something you don't fully agree with. But also, are you okay??? Despite all the love you're giving others, it looks like you may have a problem with self-loathing and are giving little love to yourself. Try to be a bit more kind to yourself when you can, alright?",
+        "adjective": "energetic",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701688933_296618d8-50c6-49cb-a326-bd223fee8242.jpg"
+    },
+    {
+        "id": "6010694",
+        "character": "Ana",
+        "description": "You're kind, selfless and curious about the world around you, always willing to learn more- but you're also still in the middle of discovering yourself as well. Perhaps not knowing where you belong or will end up in the world may scare you a bit from time to time, but that doesn't deter you from walking forward. You try to face anything life throws at you with your head held up high, and that's admirable! Just be wary that your selflessness doesn't end up being used against you and people you care about.",
+        "adjective": "selfless",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701790618_0aabe541-2969-46d1-8a7a-bfd0811d64f6.jpg"
+    },
+    {
+        "id": "6003519",
+        "character": "Reina",
+        "description": "You're the life of the party, have a near bottomless amount of energy and always have a witty quip at the ready. Though you may seem a tiny bit plain on the first impression, you actually have a deep interest in history and have a studious side to you as well. However, behind the peppy front is someone who may have a bit of trouble connecting with others. You treasure the connections you do have, but you fear you may one day come across as too off putting or that they may decide to leave you behind. But don't worry, the connections you have run deep and people care just as much about you as you do about them.",
+        "adjective": "living",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701692336_894cbd00-47d7-4c33-b64b-e45fde958d35.jpg"
+    },
+    {
+        "id": "6010501",
+        "character": "Xara",
+        "description": "You're clever and a bit sarcastic, but you're also quite thoughtful, a trait that may surprise some people when they find out about it. You're temperamental and a bit blunt, so you might be a bit of a loner... But the few people you do have close to you, you'd go through hell for. You're not above taking extreme measures if it means that you can help your loved ones out in some way or another, though you may not always think things through and are prone to making stupid decisions on impulse that cause more problems than intended. Your heart is in the right place, but you really should be less reckless on that front.",
+        "adjective": "clever",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701788822_34cb55db-bdc2-4df3-80bf-d3a04b6842ad.jpg"
+    },
+    {
+        "id": "6004282",
+        "character": "Florin",
+        "description": "You're kind, honest and willing to see the good in everyone, but because you're so trusting you may often be labeled as somewhat naive and easy to push around by others. However, this does not deter you from remaining true to your ideals; you've got good intentions and are community oriented, wishing to improve things on a greater scale for people. Just don't overexert yourself, alright? Stressing too much about things and bottling things might cause you to snap, and no one wants that.",
+        "adjective": "honest",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701702547_62f78d2b-4687-4eb6-aa81-cf78a92cef37.jpg"
+    },
+    {
+        "id": "6010652",
+        "character": "Rune",
+        "description": "You're studious, protective and extremely thorough in your work. You're not afraid to take risks in order to get to the bottom of things when a mystery is presented to you, but may sometimes get into trouble for it. You're pretty unlucky too- maybe you feel like you're stuck between a rock and a hard place more often than not. However, you'll do your utmost to persevere even in the face of such situations, always being willing to find glimmers of hope in the midst of the dredge that you may find yourself in and doing your best to turn the situation in your favor nonetheless.",
+        "adjective": "protective",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701790109_31c37d71-54e1-40c8-be09-47ea22304b58.jpg"
+    },
+    {
+        "id": "6003303",
+        "character": "Venam",
+        "description": "You're rebellious and got a clear grip on who you think you should be for both yourself and others. You're usually the one taking initiative, but you may also be a bit too eager to take initiative, resulting in saying or doing reckless things or things that are inconsiderate of other people's feelings. Honestly, you probably had to grow up a little too fast and I'm sorry. Please seek therapy.",
+        "adjective": "rebellious",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701688512_ab85df5e-626a-4fff-96c6-01dff0455ddf.jpg"
+    },
+    {
+        "id": "6009671",
+        "character": "Clear",
+        "description": "You're clever, pragmatic and straight to the point- but you don't use those traits for good purposes. Instead you use them to manipulate people and twist situations in your favor. You're brutally honest and condescending, showing zero empathy for others if it means that you can achieve your goals. With all due respect, but I hope you don't have any friends if you treat people like this.",
+        "adjective": "pragmatic",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701776893_a463ddcb-c3fd-4fdd-b046-a7e07a953fd8.jpg"
+    },
+    {
+        "id": "6004636",
+        "character": "Thomas Jr.",
+        "description": "Honestly, you're kind of a jerk on the first impression- but when people get to know you a bit better, they'll discover you're not actually a bad person at heart. You just pretend to be aloof in order to keep people away from you, especially if you're trying to protect a secret you've been harboring for a long time. You're not above going pretty extreme lengths to make sure it stays a secret either, but when the time comes to open up you'll come around and become more amicable towards people.",
+        "adjective": "secret",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701706186_ed13e9c3-7b7a-42fb-8ac4-85121bd28791.jpg"
+    },
+    {
+        "id": "6005192",
+        "character": "Karen",
+        "description": "You're funny and chaotic as hell, as well as generally being very goal-oriented, but uh... You're honestly kind of unhinged. Your good intentions have lead you to making some pretty terrible decisions, and you're completely unable to cope with them properly so now you come across as more blunt and inconsiderate to some people than anything else. Please seek therapy.",
+        "adjective": "unhinged",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701711703_fc731395-75f4-467a-8dab-af8ee2a46534.jpg"
+    },
+    {
+        "id": "6003419",
+        "character": "Erin",
+        "description": "You're organized, studious and an avid reader. You're assertive and don't let anyone walk over you or pull you around against your will, though this might be a defense mechanism you developed over time. You're a lot more sensitive than you let on and are prone to being closed off towards others in order to not allow yourself to get hurt. However, the ones you do let in are the people you are fiercely protective of and would go through great strides to keep them happy and healthy.",
+        "adjective": "organized",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701690839_dbb5aa27-efee-4b06-a3c7-e09d08684954.jpg"
+    },
+    {
+        "id": "6010105",
+        "character": "Particia",
+        "description": "You're blunt and honest, yet always looking out for the people around you- even if it means that the only way to have them be more careful is giving them an earful. You take zero bullshit from anyone and don't hesitate whatsoever to call someone out on their behavior if it's out of line, but you only do that because you don't want them to get hurt because of their own stupid actions. Maybe you're a bit too abrasive about it sometimes though, some matters require more delicate handling and people might just snap back at you if you get too angry with them.",
+        "adjective": " blunt",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701784123_469d10cf-bc43-4efd-a5c4-b056df72bb47.jpg"
+    },
+    {
+        "id": "6004491",
+        "character": "Adam",
+        "description": "You're grounded, reliable, maybe a little dumb at times but still realistic nonetheless. People may describe you as an optimistic pessimist as you still try to see the positives in a situation, but will view things through a realistic lens and have no problems acknowledging it when a situation is dire. You're a less conversation more action type of person, and might sometimes brute force a solution. Take care of yourself though; you may be willing to be a pillar of support to others, but you'll need to find your own footing first before you can be as much. You may still be searching for your identity or place in the world, and that's okay! Not everyone can find it right away. Just be careful to not let yourself get provoked too often by people who prod at your insecurities.",
+        "adjective": "reliable",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701704555_54631bc1-8135-4b73-878a-6fd6cb52172c.jpg"
+    },
+    {
+        "id": "6005261",
+        "character": "Tesla",
+        "description": "You're extremely welcoming and caring, and you do so SO much to save and help the people you care about. You're probably the mom friend of your circle of friends and are trying to look out for everyone. However, you might've ran into cases of your kindness having been taken advantage of by others, allowing them to walk over you- but instead of getting mad, you bottle things up and refuse to talk about them until something sets you off and it bursts out all at once. Please, despite everything, do not give up on that kindness; so many people love and adore you for it and truly do appreciate it. It's a huge strength and you should take pride in it.",
+        "adjective": "caring",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701712357_57cd983c-bc16-41c5-abbd-d67fa734ea02.jpg"
+    },
+    {
+        "id": "6010304",
+        "character": "Mr. Luck",
+        "description": "You are efficient in conducting business and are a smooth talker so it's easy to get people to go along with your whims, but uh... wow. You're shady as hell and really do not give two shits about the rules. You prefer tricking people into doing what you need of them, but at least you're not completely dishonorable as you do give people good things in return for their assistance and compliance. You don't seem to have trouble with tossing people aside once they've outlived their usefulness though- something you should probably learn to be extremely careful about, because that's just plainly asking for problems to come back to bite you in the ass in the long term.",
+        "adjective": "shady",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701786849_40adfef3-641f-43cf-8c00-b96877694680.jpg"
+    },
+    {
+        "id": "6005607",
+        "character": "Vivian",
+        "description": "You're an excellent problem solver and have a knack for anticipating all sorts of situations, looking and preparing ahead of time. You also don't really care for how people view you and might just decide to toss gender roles out of the window if you can. But gosh, you are so nihilistic and worried about the future. You feel like you got to sacrifice your own well-being for the sake of others and that's worrisome! I get you've got good intentions but take better care of yourself! Damn!!!",
+        "adjective": "nihilistic",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701714894_b6ab6fa7-502e-4964-9453-d0509acababe.jpg"
+    },
+    {
+        "id": "6005652",
+        "character": "Nymiera",
+        "description": "You're artistic and creative, okay, cool but- Girl, what the hell. Sure, you're not trying to make everyone's lives miserable, but you sure as hell aren't above making a select few miserable and manipulating others for your own gain. You may say that you're doing things for the greater good and there may be some merit to what you're saying or doing, but there's absolutely zero empathy for the people affected by your actions and your methods are cold as hell. You'll take advantage of people at their lowest to get them to do things for you, which is super fucked up!! What is wrong with you!!!",
+        "adjective": "creative",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701715250_810e6d12-79c9-45d7-b932-457d3113da17.jpg"
+    },
+    {
+        "id": "6009513",
+        "character": "Cassandra",
+        "description": "You're charismatic and decently smart, but honey, go to jail. Behind the kind public facade you put up, you're manipulative as hell and have no problems looking down on others if it suits you. You've overly confident and cocky, and make little effort to hide it once people are aware of your true nature. It'd do you well to tone down the attitude- it is absolutely going to come back to bite you in the ass one day.",
+        "adjective": "charismatic",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701773474_32d7cc8e-2f85-4097-9040-1d85e7380c9d.jpg"
+    },
+    {
+        "id": "6003643",
+        "character": "Narcissa",
+        "description": "You're a creative and passionate person, and likely have a deep appreciation for art and culture. Not only that, you're likely to take center stage and have a knack for leadership. However, sometimes you're a little indecisive or too scared to confront certain issues, preferring to avoid the matter altogether. That being said, if push comes to shove, you are more than capable of dealing with the matter, wrap up loose ends when need be, and learn to move on. Don't underestimate your own strength!",
+        "adjective": "passionate",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701695009_0d53ffd2-06bf-45b1-9d41-3449a0d5e7ef.jpg"
+    },
+    {
+        "id": "6010044",
+        "character": "Nancy",
+        "description": "You're gentle, protective and understanding. You've got the patience of a saint and are greatly encouraging of people, especially those you hold dear to you, even though you may not always know what the best course of action is in a situation. Perhaps your willingness to support others may not always lead to making the best decisions either; you may be too self-sacrificial and might care too little about what you yourself want. Maybe you sometimes make the decision to take blame for things you didn't do in order to protect someone else, but it's important to understand that this isn't always the healthiest thing to do. Be more mindful of yourself if you can.",
+        "adjective": "protective",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701783288_221a1cff-9569-4f28-8920-4e666db108ec.jpg"
+    },
+    {
+        "id": "6005220",
+        "character": "Alexandra",
+        "description": "You're curious about the world around you and want to help people, but you might be a little too overly trusting at times and in turn get yourself hurt if your faith ends up misplaced. You feel like you carry a huge responsibility and almost can't handle it, feeling like you could get crushed beneath the weight of the world at any moment- but you've gotta realize you're not alone and don't have to carry it all by yourself. Besides, you're a lot stronger than you give yourself credit for. Be a bit kinder to yourself if you can!",
+        "adjective": "curious",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701711979_d3d82c2a-9ece-4a29-84b9-e51df18070ba.jpg"
+    },
+    {
+        "id": "6010462",
+        "character": "Novae",
+        "description": "You're kind, adventurous and studious, always seeking to learn from other people in order to grow as a person and put more life experience under your belt. However, you don't really always know what the best approach is to do so, and may sometimes feel lost as a result. Perhaps you feel like you have a responsibility to figure it all out by yourself- but you don't have to! Remember that there's people around you who are willing to give you advice and help you get back on track. It's okay to ask for help sometimes!",
+        "adjective": "adventurous",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701788400_3a6bfcff-4a1a-44f4-aacd-75ffb1dca63a.jpg"
+    },
+    {
+        "id": "6004182",
+        "character": "Erick",
+        "description": "You're fun-loving, laid back and try to find humor in everything. You're cooperative and pleasant to work with, though you are a little weird sometimes. Thing is, you're 100% aware of it and completely own it that you're weird, so who cares what other people think if you're not doing anyone any harm? That being said, maaaybe it'd do you well to try and be a bit more serious sooner than later when the situation calls for it. And while you're quite capable and normally relatively humble, be careful to not let your confidence turn into cockiness if you can help it, because it does shine through a little from time to time.",
+        "adjective": "funny",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701701101_c7a12838-e959-46fa-a20f-701eb7b74c00.jpg"
+    },
+    {
+        "id": "6010589",
+        "character": "Jean",
+        "description": "You're polite, cautious and got a good head on your shoulders, but you generally keep to yourself and aren't one of many words. You don't really filter yourself when it comes to speaking your opinion, and will call people out if they're doing something that goes against your beliefs. Despite that, you get along with people well, and would do much for the ones you care about. However, be careful to not let yourself get pushed around too much- some people may take advantage of your willingness to go along with their whims and may end up with getting yourself into trouble.",
+        "adjective": "cautious",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701789764_04c6b207-9846-468c-9b33-4cc24dd100ca.jpg"
+    },
+    {
+        "id": "6009663",
+        "character": "Mosely",
+        "description": "You may come across as impulsive and a little childish at times, but you're actually quite responsible! You might care more about the friends you've made throughout life rather than your blood relatives, possibly due to some bad experiences with the latter. In turn, you are extremely protective of your found family and would do much to help them out. You also don't let yourself get pushed around by people whatsoever, and are keen to take initiative (and maybe break the rules sometimes) if it means that you can help the people close to you out. Just be careful to not get yourself in too much trouble.",
+        "adjective": "responsible",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701776518_550975c6-d2ed-48b6-a932-6ba2ea6a4a7d.jpg"
+    },
+    {
+        "id": "6003438",
+        "character": "Huey",
+        "description": "You're optimistic and always try to see the positives in any situation. On top of that you care a great deal for your friends and family. You've got a vivid imagination and even have an adventurous streak! However, you've been through a lot and a lot of the happy-go-lucky attitude is to hide the many worries you carry with you. You might feel you're not super strong willed as others, and maybe are prone to getting pushed around by others. Just don't beat yourself up too much for the things outside of your control; sometimes you just can't do more than what you're already doing, and that's okay.",
+        "adjective": "optimistic",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701691243_8e296463-3bb2-4df5-b594-d0cd442579c3.jpg"
+    },
+    {
+        "id": "6004363",
+        "character": "Souta",
+        "description": "You're wise, helpful, have a slightly embarrassing sense of humor at times and may have a somewhat alternative approach to life- possibly having a more spiritual or holistic outlook. You've probably gone through a lot of hardship in life already, but decided to take the second chances given to you throughout it all and make full use of them to better yourself and your circumstances. However, this might've resulted in that you're scared of letting people get close as you're scared of hurting them if you do. Please don't be afraid to tell people you care about them; it matters more than you might think.",
+        "adjective": "wise",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701703786_1944155f-d454-49da-a47f-71185c9a50dd.jpg"
+    },
+    {
+        "id": "6005062",
+        "character": "Jolene",
+        "description": "You're warmhearted, welcoming and show kindness to people, even to those you've only just met. You're quite investigative and curious, always wanting answers when a mystery or question is presented to you. You might hold quite a bit of sway over your environment or be in a leadership position, though you don't really feel the need to share or brag about it unless you want to surprise someone. However, you may sometimes notice you'll talk for much longer than intended, worrying that you may be bothering people. No worries, though- your kindness and good intentions wins people over more than anything else.",
+        "adjective": "warmhearted",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701709970_1d74bdfd-6c18-431e-bcfe-87aa5abc2434.jpg"
+    },
+    {
+        "id": "6004307",
+        "character": "Lavender",
+        "description": "You're studious, level-headed and respectful. You do your best to stay calm in most situations and more often than not are the person that wants to get to the bottom of things if you suspect there's more to a problem than meets the eye. Thing is, you may occasionally put yourself into trouble by sticking your nose into other people's business, so you may have to be a bit more careful. On top of that, while you try to stay grounded as much as possible, you do get somewhat easily flustered when things don't go according to plan; especially when it comes to more personal matters.",
+        "adjective": "level-headed",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701702915_32dcb541-7379-44f3-a1f1-a67825fa16c3.jpg"
+    },
+    {
+        "id": "6005447",
+        "character": "Cella",
+        "description": "You have only the best intentions for others, but you honestly are a bit too much of a worrywart sometimes, even if your concerns have solid ground to stand on. Previous experiences in life with interfering in other people's business may have taught you some things the hard way. While you want to prevent those mistakes from being repeated, sometimes you let them dictate the freedom of both yourself and the ones close to you a bit too much. That being said, you need to be less cryptic about your worries and stop withholding information, otherwise people may just dismiss your advice and concerns.",
+        "adjective": "much of a worrywart",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701713645_09225730-217a-49f8-88a3-6c3dd7cf74b3.jpg"
+    },
+    {
+        "id": "6010076",
+        "character": "Eizen",
+        "description": "You're deadpan, honest to a fault (to the point of blurting out whatever's on your mind) and don't give two cents about what other people think about you. You're extremely knowledgeable about one or two specific subjects and are very eager to learn as much as you can on those matters, but you're a bit of a freak about it, aren't you? Sure, you may return the favor to people who help you out and do or give them something useful in exchange, but really, not many people might be willing to look past the somewhat obsessive behavior you have in regards to your interests. You get so absorbed by it that you might've forgotten how to talk to people like a normal person. Maybe you should do something about that.",
+        "adjective": "honest",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701783581_eadf5403-ed1d-4bee-8c06-e26b5c26c9bc.jpg"
+    },
+    {
+        "id": "6004705",
+        "character": "Alice",
+        "description": "You're creative, have an extremely vivid imagination and probably were a theater kid for how extra you tend to behave. You value your family a great deal and would do much for them, though maybe you can be a bit extreme about it. You've got a pretty clear vision on what an ideal world is for yourself, but might be a bit prone to being delusional about your ideals and may unintentionally hurt people while trying to achieve them, though you don't truly mean to harm others- you just might be a bit ignorant on how the things you do affect them.",
+        "adjective": "creative",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701706678_34f21876-8d55-450d-b154-131a90d7a8ee.jpg"
+    },
+    {
+        "id": "6009650",
+        "character": "Rorim B.",
+        "description": "You're passionate, eccentric and carefree, but in a very healthy way! You're living your best life, and even though you may seem a bit strange to people at first glance for it, they'll quickly learn you're an absolute ray of sunshine and pleasant to be around. Sometimes you may catch people by surprise though, because behind the energetic front actually is a very thoughtful and observant person who has a very good read on people and situations. Honestly, the only downside to you is that you may come across as a little too carefree at times- but you just don't see the use in taking everything so seriously all the time. If you go down, you'd rather go down with a smile.",
+        "adjective": "eccentric",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701776467_2523432a-ae0e-48f7-859c-5b0ce9d2d7ab.jpg"
+    },
+    {
+        "id": "6010285",
+        "character": "V",
+        "description": "You're smart, proficient in technology and got a strong sense of justice to boot; but you're blunt and your methods are unorthodox and extreme, often causing harm to others in the process. You try to keep the collateral damage to a minimum, but if it calls for it, you have no problems using others as a means to an end and have little regards for the rules if it results in you achieving your goals, preferring to take care of multiple problems at once if possible. While your intentions might be good and your methods might've proven effective in the past, there are better ways than your current approach that don't harm other people. Pay more attention to your surroundings.",
+        "adjective": "smart",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701786470_40379c44-51c9-429d-af5b-875093e5877a.jpg"
+    },
+    {
+        "id": "6003563",
+        "character": "Keta/Kenneth",
+        "description": "Please seek therapy. You may have gone through a lot, but you're coping with it in all the wrong ways. Blaming yourself for everything bad that has ever happened to you and your surroundings, then bottling up your emotions and keeping things to yourself really isn't healthy. You can't keep festering in your own thoughts! It just makes you more and more miserable. But even though you're not doing too hot, there's still strength in you, you know? Despite being this deep in the pits, you still love and care about the people close to you, and will take responsibility and step up to confront + fix your mistakes if anything ends up threatening them as the result of your negligence towards yourself and others. But please, cut yourself some slack. Not everything is your fault. Stop hurting yourself like this.",
+        "adjective": "closed",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701693029_b3157fd9-761f-4340-8574-47390bcdfccd.jpg"
+    },
+    {
+        "id": "6003633",
+        "character": "Martin",
+        "description": "You're gentle and get along with many people despite maybe being a bit easily flustered. You're extremely protective and have a strong drive to help others, regardless of whether they're close companions or complete strangers. You're more than willing to raise hell if someone decides to threaten any loved ones, and aren't afraid to speak your mind. However, you may sometimes come across as a bit anxious due to your concern for others and let your paranoia drive you to do reckless things, so try to keep a grip on yourself, will you? You may be a bit superstitious, but I promise, most of the time situations really aren't as bad as you think they are.",
+        "adjective": "protective",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701694288_aec48be6-5d44-423a-9b04-2bb15db4357f.jpg"
+    },
+    {
+        "id": "6003752",
+        "character": "Crawli",
+        "description": "You're nice and amicable, have a strong sense of justice and are driven to help others. You're a natural born leader and are excellent at rallying people together and formulating plans of approach for problems you're facing. That being said, your humor consists of dad jokes (even though you're probably not that old), and you may not always pick up on some social cues the best, catching onto other people's intentions a bit slowly. You may be willing to take risks to solve problems, but be sure to not get yourself hurt, alright?",
+        "adjective": "amicable",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701696218_5f5bc5be-36a5-4225-866b-91dd4fa63971.jpg"
+    },
+    {
+        "id": "6004331",
+        "character": "Puppet Master",
+        "description": "You're a little extra and nonchalant, but behind the facade is a helpful and supportive person. You hold a lot of knowledge about people and problems and are more than willing to help out, but you're also the type that prefers nudging people into the right direction and let them figure things out on their own rather than spelling things out for them. While sometimes it's good to let people figure things out by themselves, sometimes you also need to learn to be direct and stop speaking in riddles! This approach doesn't work for everyone and may save a lot of trouble that could've been avoided had you just been upfront about matters.",
+        "adjective": "supportive",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701703354_a56dd122-81c3-486a-b5ab-789686de763a.jpg"
+    },
+    {
+        "id": "6005377",
+        "character": "Kanon",
+        "description": "You're agreeable and polite yet slightly mischievous- but above all else you are probably the most loyal person out of anyone in your friend group. There's extremely little that you wouldn't do for the people you care about, but maybe as a result are a bit too dependent on others for your happiness and forget to think about and cater to your own needs. Think about yourself and how you are feeling sometimes! You don't always have to do everything for other people.",
+        "adjective": "loyal",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701713420_e426a966-140e-46b2-a8bf-1972ab6aa91f.jpg"
+    },
+    {
+        "id": "6009459",
+        "character": "Geara",
+        "description": "You're clever and tend to take the initiative, but uh... That's about it for the positive traits. Perhaps you're not entirely unreasonable, but man- you're kind of a douchebag, let's be real here. Those anger issues of yours are a real problem as you'd rather take the aggressive approach over anything else. You've got charisma that draws people to you, but you immediately abuse that by using those people to make yourself look better and stronger. Be warned, because that's absolutely going to bite you in the ass later- you WILL push people away with this kind of behavior if you keep heading down this road.",
+        "adjective": "angry",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701772319_24722387-8097-4d6a-83ff-d9e31c1b927c.jpg"
+    },
+    {
+        "id": "6004727",
+        "character": "Allen",
+        "description": "You may be a bit of a theatrical ham at the front, but behind the facade is a kind, heroic person that simply wants to be helpful to others. You value your family deeply, and will confide in them if you run into any problems. However, you may be a bit too indulgent in the whims of others, so be careful to not let yourself get pushed around too much lest that you grow to be resentful of people, as you DO have a somewhat spiteful streak at times.",
+        "adjective": "heroic",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701707169_d826aabe-6d48-4978-b6f6-1bba24363e43.jpg"
+    },
+    {
+        "id": "6005487",
+        "character": "Hazuki",
+        "description": "You've got an unparalleled sense of justice and you're loyal to a fault. However, you're quick to jump the gun, a bit needlessly confrontational and are a very sore loser. You just can't seem to handle any losses well, and will let them haunt you over time to the point it becomes genuinely painful for you. Your life experiences may have made you bitter to the world around you as a result, only caring for a select few people or things in your life anymore, so once those are taken away, you simply crumble. Please seek therapy.",
+        "adjective": "loyal",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701714099_dbebc8ac-f4ef-4600-aa7c-27d0495e1fc7.jpg"
+    },
+    {
+        "id": "6006925",
+        "character": "Jenner",
+        "description": "You're resourceful, mechanically adept and deeply care about the bonds between you and your family- but you might've made some mistakes in the past that worsened some of your relationships, something that's been haunting you for a long time. Despite that, you're the type of person who feels responsible enough to want to at least try and mend any wounds you caused, being of the opinion that having them scar over is better than just leaving them fester and worsen. You're tired, but that doesn't stop you from keeping on pushing through the dark.",
+        "adjective": "responsible",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701725631_a1753df2-beed-41e8-ab1e-809cc338e418.jpg"
+    },
+    {
+        "id": "6003380",
+        "character": "Aelita",
+        "description": "You've got a strong mental fortitude, and are possibly just as strong physically with your possible interest in athletics. You're peppy and got a strong leadership capability, encouraging your friends to keep going when the going gets tough. However, you may not always be the most aware of social cues, and might even be a bit sheltered. On top of that, you might be a bit easily riled up and hotheaded. Remember to chill from time to time when you can, okay?",
+        "adjective": "strong",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701689815_711ca64f-c238-4c4c-8e40-324f275e4ef1.jpg"
+    },
+    {
+        "id": "6004126",
+        "character": "Amber",
+        "description": "Hotheaded, passionate and a natural performer, you're born to stand on the center stage and entertain others. You have a deep passion for music and may even have a knack for writing as such. But dear, you need to do something about your anger and abandonment issues. You love your family and friends like no other, but you're simultaneously scared of being unwanted by them and may lash out if they show any signs of betraying your trust in some way out of fear of being alone again. Please don't be afraid of that though; people love and care about you so much more than you think.",
+        "adjective": "Hotheaded",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701700553_cff2875f-6279-483f-9fe2-dc75e3cee856.jpg"
+    },
+    {
+        "id": "6004549",
+        "character": "Ryland",
+        "description": "You're righteous, serious and a bit of a lone wolf, but you're steady in your beliefs and have your heart in the right place. You're fiercely protective of the people in your surroundings, wishing to protect them from any harm that may befall them. On top of that, you deeply value history and believe that people should learn from it lest it repeats itself- however, at the same time, you have trouble moving on from past events. You're prone to want to carry heavy burdens by yourself despite there being people in your environment who are more than willing to help and support you... Sometimes you just need a little push to accept that help.",
+        "adjective": "righteous",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701705240_88786951-d85e-4022-841d-fcd12f715f21.jpg"
+    },
+    {
+        "id": "6005030",
+        "character": "Amanda",
+        "description": "You're enthusiastic, helpful and interested in seeing people's journeys and growth throughout them. You're well-traveled and maybe even a bit athletic! You definitely prefer doing field work rather than being stuck behind a desk at the very least. However, you may sometimes be a bit forgetful and scatterbrained, leaving people to worry about you a bit about how you're gonna take care of yourself and your work. You'll scrape by, though- as you usually do.",
+        "adjective": "helpful",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701709792_5a80666a-83e9-488b-b7d0-5eea177b1f2f.jpg"
+    },
+    {
+        "id": "6006866",
+        "character": "Sharon",
+        "description": "You're quite pessimistic and sarcastic, but you're not a sore loser whatsoever and take losses very gracefully. You're very loyal and stick to the plan even if things are looking like they're going wrong, though that's not gonna stop you from complaining about it. Maybe you sometimes feel like there's no hope for the future, but simultaneously forget that there's people who want to keep you company through it all. Try turning to them sometimes; you'll find that your life will become easier with people you love at your side.",
+        "adjective": "sarcastic",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701725309_62ec6ee4-e856-4bfb-a479-0b330ff9e4dc.jpg"
+    },
+    {
+        "id": "6009509",
+        "character": "Nastasia",
+        "description": "You're practical and tech savvy, but honestly, you're not very good at showing any emotions other than frustration. You prefer closing yourself off from others to not allow them to see your vulnerabilities, though not always with success- a select few people will see through it and see that you actually worry and carry concern for others quite a lot. You may decide to let those people in, and in turn will do much to help them, though maybe more through tough love than anything else. Just remember that it's okay to show you care sometimes, alright? No need to always hide everything behind a mask.",
+        "adjective": "practical",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701772910_dd2ddc2c-2de5-41d1-925d-44098498c947.jpg"
+    },
+    {
+        "id": "6004267",
+        "character": "Flora",
+        "description": "You need serious help. You're a loner and are unwilling to let others in, and while you do have a small handful of people you care about, you don't really show it in a normal or healthy way. Sure, tough love is one way of expressing you care, but it doesn't always mean it's the right thing to do! And even then, you have a hard time trusting anyone, preferring to work alone- but exactly because you're unwilling to confide in anyone and let anyone get close to you, you become blind to your own actions and don't realize that you're hurting people. Something something \"The road to hell is paved with good intentions\" something.",
+        "adjective": "lonely",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701702140_1043041f-fac6-4eb6-bb02-530471cee99e.jpg"
+    },
+    {
+        "id": "6004416",
+        "character": "Talon",
+        "description": "You're friendly, adventurous and insightful. You're quite a good teacher and get great enjoyment out of learning and letting people learn about the world around you. On top of that, you're proactive and are quick to jump into action when it matters, being unwilling to sit still for long. However, you may get a bit fussy about the people close to you and are scared that something might happen to them or that they'll suddenly leave you. You may also be a bit blunt when it comes to voicing your dislike for someone. Despite all of that, you tend to bury your worries behind a smile- preferring that others don't grow worried about you, but try to allow yourself to be vulnerable towards others from time to time, okay?",
+        "adjective": "insightful",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701704110_19e76703-de62-4d21-a3df-b7379933eab9.jpg"
+    },
+    {
+        "id": "6005534",
+        "character": "Anju",
+        "description": "You're kind, graceful and well-spoken. That, in combination with your usually calm and patient demeanor, makes you a great fit for running a business and negotiating with clients. However, you're not uptight; you actually have something of a mischievous streak. Heck, if people manage to somehow get on your nerves, you can even get a bit temperamental. That being said, you care deeply about the people around you, and go through great lengths to make sure they're safe from harm, being prepared even for the distant future.",
+        "adjective": "graceful",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701714613_3c8aba52-cb90-4634-ac29-cc3c38b4b96c.jpg"
+    },
+    {
+        "id": "6009605",
+        "character": "Crescent",
+        "description": "...You've got some serious problems. While you are loyal to the people you hold dearest, it's to the extreme and you may cling to and obsess about them a bit too much to the point you might become jealous, anxious or even aggressive if something separates them from you. You're closed off emotionally and cling to the past too much, having trouble moving on from stuff that you don't want to accept is just holding you back. However, you're not completely unwilling to try and move on- it just takes a lot of effort, time and patience with you from others for you to do so. Some therapy would probably do you good to speed up the process, honestly.",
+        "adjective": "loyal",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701775615_d1d2edec-4c3c-4a8c-823c-06d82a2519e2.jpg"
+    },
+    {
+        "id": "6009632",
+        "character": "Melanie",
+        "description": "I diagnose you with Bri'ish. Also what the fuck is wrong with you. You're spoiled, will do anything to get your way and have an immensely sadistic personality. You get genuine pleasure out of manipulating people into dancing to your cruel whims. Seriously man, what the hell? Go to jail.",
+        "adjective": "bri'ish",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701775742_ba490cdb-3adb-4c5a-a092-ccc0d9fa3e21.jpg"
+    },
+    {
+        "id": "6009969",
+        "character": "Goomink",
+        "description": "You're charming, determined, and a little bit weird. That being said, you're also a hard worker and hold a strong sense of justice. Perhaps people may not always take you that seriously for one reason or another, but you don't let that deter you and you're steadfast in any goals you want to attain. You may have struggled with overcoming your own flaws in the past and might've had a cowardly streak, but you've managed to climb over them and come out a stronger person for it. Good on you for finding your inner hero!",
+        "adjective": "charming",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701781750_b7fbe9e0-bf96-4e15-9a3a-a51d0114fa29.jpg"
+    },
+    {
+        "id": "6010426",
+        "character": "Odessa",
+        "description": "While you appear calm and collected on the front, it's really just that- a front, as in reality you're anything BUT those things. You've actually got quite a temper and absolutely hate having stuff forced upon you by others. It sometimes might get to the point that you make stupid decisions out of desperation to get out of your situation. Despite that, you're actually quite agreeable to the people that see that you just want to live life the way you want, and don't actually mean any harm. You value the friends that let you be who you truly are around them.",
+        "adjective": "wild",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701787920_87a9489d-78a6-4e43-93eb-c5e40d562157.jpg"
+    },
+    {
+        "id": "6005169",
+        "character": "Dylan",
+        "description": "You present yourself as laid back, might be a smooth talker and would do a lot for the people close to you, but if you're gonna do anything for them- do them a favor and please get some god damn help. You've got PROBLEMS. You're terrible at getting rid of bad habits, make terrible decisions all the time that end up hurting others and you've got anger issues to boot- and you would rather run away from all of those things than confronting them, overcoming them and becoming a better person for it. Plus, you're quite eager to get revenge when wronged, aren't you? Fighting fire with fire isn't the answer, dude. Calm down.",
+        "adjective": "wild",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701710396_7f5e973a-0516-417c-9b0f-6ca16dc938f7.jpg"
+    },
+    {
+        "id": "6006780",
+        "character": "Eli",
+        "description": "Honestly, you're pretty clueless sometimes and aren't really all that good at reading the room, but you don't let that deter you as your eagerness to learn and do better will outmatch both of those issues through perseverance and persistence. And even though you're not the brightest bulb in the box, you're still charming in your own way and manage to draw people to you that care about you- to which in turn you give love as well.",
+        "adjective": "perseverant",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701725085_8c459441-f084-4324-95c1-9f044b5f124b.jpg"
+    },
+    {
+        "id": "6007077",
+        "character": "Madelis",
+        "description": "Maybe appearances may suggest otherwise, but you're actually quite smart in your own way. You're extremely persistent and it takes a lot to knock you down, but honestly that's primarily because you're self absorbed and somewhat vain, which drives you to look the best you can to others- both literally and figuratively. Below it all you may acknowledge that your behavior is kind of terrible though, so maybe you should actually listen to those thoughts and try to do better.",
+        "adjective": "smart",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701727683_9eb95caa-d8aa-4db7-bf09-01e29af39b64.jpg"
+    },
+    {
+        "id": "6009952",
+        "character": "Risa",
+        "description": "You're peppy, energetic and highly fashionable. On top of that, you're a true performer and a born crowd pleaser, making you a perfect fit to stand on the center stage one way or another. You're musically or theatrically inclined (or both!) and have a deep passion for the performing arts, but this goes paired with being kinda extra and dramatic at times. You're truly passionate about your dreams and cling on to it like there's nothing else that matters. However, while you put on a great show for people, it is just that- a show. On the inside you might harbor some deep insecurities about yourself and might be keeping secrets you'd rather die for than have them exposed. Just be careful that your passion to entertain doesn't come at the cost of your own well being.",
+        "adjective": "energetic",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701781505_04adbbfb-0389-4cce-bb8b-ffc30a3de62b.jpg"
+    },
+    {
+        "id": "6010383",
+        "character": "Karrina",
+        "description": "You value your community and do a lot to protect it, though you prefer working behind the scenes to do so rather than being front and center about it. You're good at pulling strings to get what you want and have a wide social network so you can keep a close eye on any situations that may unfold. However, this also results in that you've developed a manipulative and even hypocritical streak, not having any problems with throwing others under the bus if you're backed into a corner. You're also a bit selfish and vengeful, traits that when combined might lead you to make some extremely stupid decisions, so be careful to not get consumed by anger and lose sight of doing what's good.",
+        "adjective": "sociable",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701787496_853a608c-a671-434f-bfe4-76f08cc31db9.jpg"
+    },
+    {
+        "id": "6009476",
+        "character": "Neved",
+        "description": "You're stalwart, a firm believer in the principles you set for yourself and surprisingly amicable towards others, even if you don't seem like it at first glance with the pessimistic front you put up. You actually would go through extremes to save and protect the people you care deeply about. But there's a very nasty side to you as well; you hold extreme grudges towards those who betray any kindness you extend to others-even if it's the bare minimum-and it's almost impossible for you to let go of them, constantly reminding yourself and others when you get the chance. You have to learn to let go eventually.",
+        "adjective": "amicable",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701772708_73c1bf29-6e7b-4c2d-a8f2-b753d17878b6.jpg"
+    },
+    {
+        "id": "6009884",
+        "character": "Kieran",
+        "description": "While you're charismatic and have a pretty good sense of humor, you use it to hide you're really not that great of a person. You're manipulative and condescending, and often use your ability to smooth talk to toss condescending remarks at people. You've got a sadistic streak too, taking enjoyment out of putting people on the spot. Honestly, for the sake of others, I hope you don't have a lot of friends if you treat people like this.",
+        "adjective": "charismatic",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701780560_21fb2d53-ceee-42e6-83e1-21e7544093cb.jpg"
+    },
+    {
+        "id": "6010252",
+        "character": "M2",
+        "description": "Your sense of humor is relentlessly hilarious, but- dear lord you have so many problems that it's literally impossible to count them all on one hand. Sure, you know how to have fun for yourself, but it often comes at the cost of others. You're petty as hell, enjoy picking fights and take pleasure in the chaos you cause. Maybe this is to hide that you're scared of the future and therefore want to vent your frustrations, but man, the way you go about it is so SO unhealthy, for EVERYONE involved. Go to therapy. And maybe go to jail as well.",
+        "adjective": "petty",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701785151_975eca2f-0956-40f3-a2da-40f49932a771.jpg"
+    },
+    {
+        "id": "6003570",
+        "character": "Texen",
+        "description": "Honestly, I'm surprised anyone got this result at all. Either you are deliberately seeking this answer out, or you're just that much of a jackass. You've got an ego the size of a ten-story building, extreme egotistical self-confidence and absolutely zero fear when it comes to accepting a challenge. But really, behind all the tough guy (and possibly kinda sexist) behavior, you're pretty insecure, huh? You've got an inferiority complex that's just as big as your ego, and are coping with feeling like you're walking in others' shadows in all the wrong ways. Stop being an ass and go to therapy or something.",
+        "adjective": "egocentric",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701693602_10ab2114-d814-4f8e-9d86-02249bdc9b86.jpg"
+    },
+    {
+        "id": "6004059",
+        "character": "Kreiss",
+        "description": "You're witty, sarcastic and maybe a little old fashioned, yet simultaneously a pragmatic problem solver with a strong sense of justice- though the latter may often end up in a fight because you're rather blunt. You enjoy reading and are knowledgeable on many subjects. But you're kind of emotionally constipated, aren't you? You may be slightly socially awkward, have an offbeat sense of humor and have a hard time opening up to others because of it. Though don't worry, give people enough time to get to know you and they'll learn to see you for who you really are; someone who deeply cares, but simply doesn't know how to express it properly.",
+        "adjective": "pragmatic",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701696559_6d899e2a-2fc8-473d-906c-ac1bdb3e6a33.jpg"
+    },
+    {
+        "id": "6004609",
+        "character": "Saki",
+        "description": "You're smart, tech savvy and an absolutely unpredictable and impulsive force of chaos. You are genuinely hilarious, take pride in making your friends laugh and try to find fun in everything; even when trying to solve problems you'll be trying to take an eccentric and unorthodox (albeit somewhat reckless) approach. Though really, maybe pay a bit more attention to what you're doing and the consequences of your actions. You may not really like being confronted with that stuff, or any other kinds of truth that you've been turning a blind eye to, really-regardless of whether it's on purpose or not- but it's for the best that you do as you'll come out a better person for it.",
+        "adjective": "unpredictable",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701705623_1dea8d28-3ee5-4301-b256-b7d78394723f.jpg"
+    },
+    {
+        "id": "6005006",
+        "character": "Damien",
+        "description": "You're bold, thorough and have a very direct approach to problem solving, but you've got anger issues and are a bit prone to jumping to the violent solution. You've got trouble seeing the good in people and are distrustful of strangers, but if you manage to move past that initial hurdle, people will find that you're only looking out for others. You're quite a good teacher as well, though people may find you're pretty stern and rigorous. ...Okay but seriously, you should do something about your anger issues because they're pretty intense. Please seek therapy.",
+        "adjective": "bold",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701708209_ae2d09fd-4cd3-49db-bcbb-f64b7f3a5644.jpg"
+    },
+    {
+        "id": "6005339",
+        "character": "Vitus/Indriad",
+        "description": "Go to jail. You're extremely manipulative, aggressive and will bend the rules to your own whims if you so desire, much to the chagrin of literally everyone else around you. You have no issues using others for your own selfish goals. The only somewhat good quality you have is that you are (unfortunately) charismatic and that you somehow still manage to draw people towards you, even if they end up learning to regret it later- not that you care, though. It doesn't matter to you as long as you get what you want. Seriously, what the hell.",
+        "adjective": "manipulative",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701713084_59299892-cf31-4c60-bdf6-9e7857a42107.jpg"
+    },
+    {
+        "id": "6003729",
+        "character": "Valarie",
+        "description": "You like taking things easy when you can, maybe a bit too much sometimes, causing you to come across as lazy to some, but your heart is in the right place. Despite your easy disposition, you do feel a sense of responsibility and want to be strong for your friends so they can rely on you. There is a side to you that's a bit cocky and you have the occasional urge to behave like a drama queen when things don't go your way, but you're usually just playing things up- and if not, there's people who keep you grounded regardless.",
+        "adjective": "easy taking",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701695981_0c7d5ef2-d810-4467-8765-9ff6ec2af391.jpg"
+    },
+    {
+        "id": "6003754",
+        "character": "Angie",
+        "description": "What the fuck is wrong with you. No, for real, what IS wrong with you? There's no way you got this by answering these questions truthfully, so you probably just got this through trial and error. But okay, if you really want to know why you're similar... You've got anger issues to the MAX. You've got no issues shoving your own ideologies down people's throats, and will grow violent if people disagree with your opinions. You show zero tolerance who speak up about your misbehavior and would go to extremes to suppress them. Go to jail.",
+        "adjective": "bad",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701696502_a7d4b187-68f2-4c37-a588-d36a50a1b103.jpg"
+    },
+    {
+        "id": "6009524",
+        "character": "Isha",
+        "description": "You're goal oriented and methodical, and your current goal is to speedrun your way to jail! You're dishonest and manipulative as hell. Maybe you present yourself as a caretaker, but you've got a distinct lack of actual care for the people around you- unsurprising considering you've genuinely got a couple screws loose in your head. You grow violent once you're backed in a corner and will lash out at people. Really, it's best if people stayed away from you as far as possible.",
+        "adjective": "methodical",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701774009_7e6ce179-61f0-4b18-b15e-0e2fa602016d.jpg"
+    },
+    {
+        "id": "6009899",
+        "character": "Volta",
+        "description": "You're energetic, passionate and helpful, but know when to take things seriously if the situation calls for it. You're very passionate about your interests and/or work, and go through pretty great lengths to get the job done- albeit always trying to do things in a manner that doesn't get people hurt. Maybe you need a bit more careful with when you try that though, because you are a bit reckless and will occasionally get yourself into trouble, even if it's just for the bit. You maaaay also be slightly married to your job, so take it easy when you can and do something else if you can help it. You can't take care of others if you can't take care of yourself first!",
+        "adjective": "passionate",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701780663_ba803366-0e04-40b4-9de0-db8966e1e918.jpg"
+    },
+    {
+        "id": "6010344",
+        "character": "Rhodea",
+        "description": "You look out for those who are less fortunate and care a great deal about the community you're part of. You're hospitable and sociable, being more than willing to provide assistance to people if it means that it benefits others in the long run... Well, as long as it's on your own terms rather than having stuff forced on you; you're prone to freaking out and getting angry if you're suddenly put on the spot by others. You harbor a somewhat more spiteful side as well- You're plenty capable of holding grudges for a very long time, and may consider revenge as a completely normal solution to problems. Please remember from time to time that the extreme options aren't always the only ones.",
+        "adjective": "hospitable",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701787105_715affa3-b668-44bf-8988-c100d61f5e4d.jpg"
+    },
+    {
+        "id": "6010614",
+        "character": "Thomas Sr.",
+        "description": "If you got this result by answering questions without actively seeking it out, go to jail. Not only are you greedy as hell, you're perfectly fine trampling over the lives of others if it means that it uplifts your own status because you have a complete disregard for other people's feelings. In fact, almost everything you do is for the sake of your status. You may only truly care about like one person, and even then it might be more to show off than anything else. God, you're an asshole.",
+        "adjective": "greedy",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701789852_471b98a2-629c-4a30-a600-825d3938c863.jpg"
+    },
+    {
+        "id": "6009540",
+        "character": "Madame X",
+        "description": " What. Seriously, she's just here for the bit, she's got the least available points out of anyone and you can only get this by answering questions with random answers because just like her, it's hard to really pinpoint what drives or motivates her. Uh, enjoy the sword and cape, I guess???? Congrats????????????",
+        "adjective": "WEIRD",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701774051_78eac69c-b04c-4833-8273-1e635ce9c706.jpg"
+    },
+    {
+        "id": "6009998",
+        "character": "Cera",
+        "description": "You're persistent and know how to get results- though whether the results are favorable or not is definitely up in the air from time to time. You've got a somewhat bratty streak and don't really know when to shut up, causing you to run your mouth and slip up from time to time, though this might also just be because you're prone to hanging out with the wrong crowd. You're quite clingy and codependent, causing it to be that don't really know what to do with yourself when you're not able to depend on or do things for others. Maybe it's good if you try to learn to be your own person and one that's a bit kinder at that.",
+        "adjective": "persistent",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701782315_dcfff84e-bb26-4b6b-8cd5-e1c2074c72ec.jpg"
+    },
+    {
+        "id": "6010090",
+        "character": "Patty",
+        "description": "You're super chill, don't have a care in the world and are a social butterfly. You love chatting with people and maybe talk a little too much for your own good, but honestly you don't really care and stick to dancing to the beat of your own drum. You should probably learn to pay a bit more attention to what you get yourself involved in and read the room a bit better though- there's a slight lack of thoughtfulness and you may accidentally set people off if you're not careful.",
+        "adjective": "chill",
+        "img": "https://img2.uquiz.com/content/images/personalities/personality_images/1067667_1701783964_5949844f-0f93-4201-a157-eaa207be85c6.jpg"
+    }
+]

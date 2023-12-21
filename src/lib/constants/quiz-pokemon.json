@@ -4147,7 +4147,7 @@
     },
     {
         "id": 64,
-        "question": "Are you a boy, a girl or none of them?",
+        "question": "Are you a boy, a girl or neither?",
         "answers": [
             {
                 "id": 0,
@@ -4169,7 +4169,7 @@
             },
             {
                 "id": 2,
-                "answer": "None of them.",
+                "answer": "Neither.",
                 "scores": [
                     0,
                     0,

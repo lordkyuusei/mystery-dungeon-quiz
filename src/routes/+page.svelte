@@ -1,5 +1,6 @@
 <script lang="ts">
     import { goto } from "$app/navigation";
+    import NarratorBox from "$lib/components/NarratorBox.svelte";
     import typewriter from "$lib/transitions/typewriter";
 
     const prompter = [
@@ -14,11 +15,7 @@
 
     let prompterIndex = 0;
 
-    const increasePrompterIndex = (
-        event: MouseEvent & {
-            currentTarget: EventTarget & HTMLParagraphElement;
-        },
-    ) => {
+    const increasePrompterIndex = () => {
         if (prompterIndex < prompter.length - 1) {
             prompterIndex += 1;
         } else {
@@ -28,22 +25,14 @@
 </script>
 
 <section id="quiz-intro">
-    {#key prompterIndex}
-        <p in:typewriter on:click={increasePrompterIndex}>
-            {prompter[prompterIndex]}
-        </p>
-    {/key}
+    <NarratorBox
+        nostyle
+        text={prompter[prompterIndex]}
+        on:narratorBoxClick={increasePrompterIndex}
+    ></NarratorBox>
 </section>
 
 <style>
-    :global(.visible) {
-        opacity: 1;
-    }
-
-    :global(.invisible) {
-        opacity: 0;
-    }
-
     #quiz-intro {
         height: 100%;
         width: 100%;

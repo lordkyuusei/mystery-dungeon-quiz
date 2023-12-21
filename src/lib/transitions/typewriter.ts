@@ -6,7 +6,7 @@ const typewriter = (node: Element, { speed = 7 }) => {
 
     return {
         duration,
-        tick: (t) => {
+        tick: (t: number, u: number) => {
             const i = ~~(text.length * t);
             node.innerHTML = `<span class="visible">${text.slice(
                 0,

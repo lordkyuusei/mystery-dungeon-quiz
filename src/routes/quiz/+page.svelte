@@ -2,8 +2,7 @@
     import { goto } from "$app/navigation";
     import NarratorBox from "$lib/components/NarratorBox.svelte";
     import Waves from "$lib/components/Waves.svelte";
-    import quiz from "$lib/constants/quiz-pokemon.json";
-    import typewriter from "$lib/transitions/typewriter";
+    import quiz from "$lib/constants/quiz-rejuv.json";
     import type {
         PokemonMDAnswer,
         PokemonMDQuestion,
@@ -15,32 +14,36 @@
     let answers: PokemonMDAnswer[];
     let answered: number[] = [];
 
-    const answerQuestion = (
-        event: MouseEvent & { currentTarget: EventTarget & HTMLLIElement },
+    const computeHighest = (arr: number[]) => {
+        const countMap = arr.reduce(
+            (acc, curr) => acc.set(curr, (acc.get(curr) || 0) + 1),
+            new Map(),
+        );
+        const maxCount = Math.max(...countMap.values());
+        return [...countMap.keys()].find(
+            (key) => countMap.get(key) === maxCount,
+        );
+    };
+
+    const answerQuestion = async (
+        questionId: number,
+        answer: PokemonMDAnswer,
     ) => {
-        if (answered.length === 16) {
-            goto("/result/me");
-        } else {
-            let random: number;
-            /* Special cases*/
-            if (answered.length === 15) {
-                random = 64;
-            } else if (answered[answered.length - 1] === 56) {
-                random = 57;
-            } else {
-                random = Math.floor(Math.random() * quiz.length - 1);
-                while (answered.some((answered) => answered === random)) {
-                    random = Math.floor(Math.random() * quiz.length - 1);
-                }
-            }
-            question = quiz.find((q) => q.id === random) ?? quiz[0];
-            answers = quiz[random].answers;
-            answered = [...answered, random];
+        answered = [...answered, ...answer.scores];
+
+        if (questionId === quiz.length) {
+            const computedScore = computeHighest(answered);
+            await goto("/result/" + computedScore);
         }
+
+        question = quiz[questionId];
+        answers = question.answers;
     };
 
     onMount(() => {
-        answerQuestion(null);
+        question = quiz[0];
+        answers = question.answers;
+        answered = [];
     });
 </script>
 
@@ -59,8 +62,15 @@
         <div class="quiz-answers">
             <NarratorBox>
                 <ul>
-                    {#each answers as answer}
-                        <li on:click={answerQuestion}>{answer.answer}</li>
+                    {#each answers as answer (answer.id)}
+                        <li>
+                            <button
+                                on:click={async () =>
+                                    await answerQuestion(question.id, answer)}
+                            >
+                                {answer.answer}
+                            </button>
+                        </li>
                     {/each}
                 </ul>
             </NarratorBox>
@@ -111,12 +121,18 @@
 
                 & li {
                     display: flex;
+                    justify-content: stretch;
                     align-items: center;
                     position: relative;
-                    font-size: 3rem;
+                    font-size: 2.5rem;
                     width: 100%;
                     text-wrap: nowrap;
                     cursor: pointer;
+
+                    & button {
+                        all: unset;
+                        width: 100%;
+                    }
 
                     &:hover::before {
                         content: "";

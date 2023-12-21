@@ -1,0 +1,4141 @@
+[
+    {
+        "id": 1,
+        "question": "Pick any flower from this list.",
+        "answers": [
+            {
+                "id": "190071202",
+                "answer": "Gladiolus",
+                "scores": [
+                    6005447,
+                    6005487
+                ]
+            },
+            {
+                "id": "190071206",
+                "answer": "Hyacinth",
+                "scores": [
+                    6003570,
+                    6005534
+                ]
+            },
+            {
+                "id": "190071203",
+                "answer": "Hydrangaea",
+                "scores": [
+                    6003729,
+                    6010426
+                ]
+            },
+            {
+                "id": "190071196",
+                "answer": "Dahlia",
+                "scores": [
+                    6009605
+                ]
+            },
+            {
+                "id": "190071197",
+                "answer": "Sunflower",
+                "scores": [
+                    6005261,
+                    6010044
+                ]
+            },
+            {
+                "id": "190071207",
+                "answer": "Zinnia",
+                "scores": [
+                    6003210,
+                    6006925
+                ]
+            },
+            {
+                "id": "190071199",
+                "answer": "Marigold",
+                "scores": [
+                    6003438,
+                    6004416
+                ]
+            },
+            {
+                "id": "190071209",
+                "answer": "Petunia",
+                "scores": [
+                    6005339,
+                    6009459
+                ]
+            },
+            {
+                "id": "190071208",
+                "answer": "Anemone",
+                "scores": [
+                    6003643,
+                    6005321,
+                    6010344
+                ]
+            },
+            {
+                "id": "190071204",
+                "answer": "Orchid",
+                "scores": [
+                    6004126,
+                    6007077,
+                    6009513
+                ]
+            },
+            {
+                "id": "190071198",
+                "answer": "Rose",
+                "scores": [
+                    6003290,
+                    6003419,
+                    6004609
+                ]
+            },
+            {
+                "id": "190071205",
+                "answer": "Cherry Blossom",
+                "scores": [
+                    6003380,
+                    6003563,
+                    6005607
+                ]
+            },
+            {
+                "id": "190071200",
+                "answer": "Carnation",
+                "scores": [
+                    6004331,
+                    6010652
+                ]
+            },
+            {
+                "id": "190071201",
+                "answer": "All of them!",
+                "scores": [
+                    6003332,
+                    6004282
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question": "You see a child crying on a bench all alone. What do you do?",
+        "answers": [
+            {
+                "id": "190071210",
+                "answer": "Pretend to not notice.",
+                "scores": [
+                    6004126,
+                    6004267,
+                    6005006,
+                    6007077,
+                    6009513,
+                    6009605,
+                    6010614
+                ]
+            },
+            {
+                "id": "190071211",
+                "answer": "Talk to them.",
+                "scores": [
+                    6003210,
+                    6003332,
+                    6003380,
+                    6003589,
+                    6003752,
+                    6004416,
+                    6005062,
+                    6005447,
+                    6005487,
+                    6010044,
+                    6010652
+                ]
+            },
+            {
+                "id": "190071212",
+                "answer": "\"You good?\"",
+                "scores": [
+                    6003438,
+                    6003519,
+                    6003729,
+                    6004491,
+                    6005169
+                ]
+            },
+            {
+                "id": "190071213",
+                "answer": "Awkwardly stare and then walk away.",
+                "scores": [
+                    6005321,
+                    6006866,
+                    6009540,
+                    6010501
+                ]
+            },
+            {
+                "id": "190071214",
+                "answer": "Try to find someone else to check on them.",
+                "scores": [
+                    6003303,
+                    6004059,
+                    6004331,
+                    6010344,
+                    6010383
+                ]
+            },
+            {
+                "id": "190071215",
+                "answer": "Actively taunt them.",
+                "scores": [
+                    6003570,
+                    6003754,
+                    6005339,
+                    6009459,
+                    6009632
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question": "How far are you willing to go for the bit?",
+        "answers": [
+            {
+                "id": "190071216",
+                "answer": "I'd do just about anything!",
+                "scores": [
+                    6004182,
+                    6004609,
+                    6004705,
+                    6005192,
+                    6010252
+                ]
+            },
+            {
+                "id": "190071217",
+                "answer": "I'll go a great length, but there are limits to what I'll do.",
+                "scores": [
+                    6004727,
+                    6009650,
+                    6009663,
+                    6009920
+                ]
+            },
+            {
+                "id": "190071218",
+                "answer": "I'll play along for a little bit, but stop relatively early.",
+                "scores": [
+                    6003290,
+                    6003380,
+                    6003419,
+                    6003643,
+                    6003752,
+                    6004363,
+                    6005169,
+                    6005220,
+                    6007006,
+                    6009632,
+                    6009884,
+                    6010589
+                ]
+            },
+            {
+                "id": "190071219",
+                "answer": "Meh, I don't really care for doing stuff for the bit.",
+                "scores": [
+                    6003686,
+                    6004059,
+                    6004491,
+                    6006866,
+                    6009476,
+                    6009509,
+                    6010501
+                ]
+            },
+            {
+                "id": "190071220",
+                "answer": "Bit? There is no bit. Everything I do is completely serious.",
+                "scores": [
+                    6003563,
+                    6003570,
+                    6003754,
+                    6004549,
+                    6004636,
+                    6005377,
+                    6006780,
+                    6009671,
+                    6009969,
+                    6009998,
+                    6010076
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question": "How well do you hold up when put under pressure?",
+        "answers": [
+            {
+                "id": "190071221",
+                "answer": "I work best under pressure, actually!",
+                "scores": [
+                    6003752,
+                    6004182,
+                    6004307,
+                    6004363,
+                    6005534,
+                    6009509,
+                    6009899,
+                    6009952,
+                    6010285,
+                    6010589,
+                    6010652
+                ]
+            },
+            {
+                "id": "190071222",
+                "answer": "I can handle it quite well, but there's limits to how much I can take.",
+                "scores": [
+                    6003210,
+                    6003303,
+                    6003519,
+                    6003643,
+                    6004267,
+                    6004331,
+                    6005261,
+                    6005487,
+                    6005652,
+                    6007006,
+                    6010105
+                ]
+            },
+            {
+                "id": "190071223",
+                "answer": "I'm not great at dealing with pressure, but I'll manage.",
+                "scores": [
+                    6003332,
+                    6003589,
+                    6003633,
+                    6003729,
+                    6004282,
+                    6005030,
+                    6005377,
+                    6005607,
+                    6007077,
+                    6009920,
+                    6010044,
+                    6010344,
+                    6010462,
+                    6010694
+                ]
+            },
+            {
+                "id": "190071224",
+                "answer": "I crumble under pressure pretty easily...",
+                "scores": [
+                    6003563,
+                    6003754,
+                    6005220,
+                    6005321,
+                    6006925,
+                    6009524,
+                    6009998
+                ]
+            },
+            {
+                "id": "190071225",
+                "answer": "I've never felt pressure in my life.",
+                "scores": [
+                    6005192,
+                    6006780,
+                    6009884,
+                    6010076,
+                    6010090,
+                    6010304,
+                    6010614
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "question": "How willing are you to forgive people?",
+        "answers": [
+            {
+                "id": "190071226",
+                "answer": "I'm very forgiving!",
+                "scores": [
+                    6003438,
+                    6005062,
+                    6005321,
+                    6009650,
+                    6010090,
+                    6010462,
+                    6010694
+                ]
+            },
+            {
+                "id": "190071227",
+                "answer": "I prefer forgiving people, but I can't always bring myself to do so.",
+                "scores": [
+                    6003210,
+                    6003303,
+                    6003589,
+                    6003633,
+                    6004307,
+                    6005261,
+                    6005447,
+                    6005607,
+                    6006925,
+                    6009969,
+                    6010304,
+                    6010652
+                ]
+            },
+            {
+                "id": "190071228",
+                "answer": "It's hard for me to forgive, but I will when given some time and a good reason.",
+                "scores": [
+                    6003332,
+                    6003419,
+                    6003643,
+                    6004126,
+                    6004416,
+                    6004705,
+                    6004727,
+                    6005652,
+                    6009605,
+                    6010426
+                ]
+            },
+            {
+                "id": "190071229",
+                "answer": "I'd rather hold grudges.",
+                "scores": [
+                    6003570,
+                    6003754,
+                    6004267,
+                    6004636,
+                    6005006,
+                    6005169,
+                    6009476,
+                    6009513,
+                    6009632,
+                    6009998,
+                    6010252,
+                    6010285,
+                    6010383
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "question": "You drink a glass of water halfway. What is that glass now?",
+        "answers": [
+            {
+                "id": "190071230",
+                "answer": "Half empty",
+                "scores": [
+                    6003290,
+                    6003563,
+                    6003729,
+                    6004267,
+                    6004363,
+                    6004549,
+                    6005169,
+                    6006866,
+                    6009476,
+                    6009524,
+                    6009540,
+                    6010383,
+                    6010426,
+                    6010501
+                ]
+            },
+            {
+                "id": "190071231",
+                "answer": "Half full",
+                "scores": [
+                    6003332,
+                    6003380,
+                    6003438,
+                    6003752,
+                    6004182,
+                    6004331,
+                    6004705,
+                    6005030,
+                    6005062,
+                    6005261,
+                    6005534,
+                    6009650,
+                    6009663,
+                    6009899,
+                    6009952,
+                    6010694
+                ]
+            },
+            {
+                "id": "190071232",
+                "answer": "Yo, it's still just a glass of water.",
+                "scores": [
+                    6003519,
+                    6003686,
+                    6004059,
+                    6004727,
+                    6005192,
+                    6005652,
+                    6007006,
+                    6009671,
+                    6009969,
+                    6010076,
+                    6010105,
+                    6010285,
+                    6010652
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "question": "What is your view on isolation of oneself?",
+        "answers": [
+            {
+                "id": "190071233",
+                "answer": "I need people around me or Else.",
+                "scores": [
+                    6003519,
+                    6003570,
+                    6004416,
+                    6004609,
+                    6009650,
+                    6009952,
+                    6010090
+                ]
+            },
+            {
+                "id": "190071234",
+                "answer": "I can deal with being left alone, but I really do better with the presence of others.",
+                "scores": [
+                    6003210,
+                    6003303,
+                    6003729,
+                    6004282,
+                    6005447,
+                    6010344,
+                    6010589
+                ]
+            },
+            {
+                "id": "190071235",
+                "answer": "It depends. I need people but I also like my alone time.",
+                "scores": [
+                    6003290,
+                    6003380,
+                    6003633,
+                    6004059,
+                    6004126,
+                    6004307,
+                    6004491,
+                    6005220,
+                    6005607,
+                    6010105,
+                    6010501
+                ]
+            },
+            {
+                "id": "190071236",
+                "answer": "I mostly like to keep to myself, yet may rarely seek out people for company.",
+                "scores": [
+                    6003589,
+                    6003686,
+                    6004363,
+                    6004549,
+                    6004636,
+                    6005377,
+                    6009509,
+                    6009605,
+                    6010462
+                ]
+            },
+            {
+                "id": "190071237",
+                "answer": "It is my preferred state of being.",
+                "scores": [
+                    6003563,
+                    6005006,
+                    6005339,
+                    6009524,
+                    6009671,
+                    6010614
+                ]
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "question": "How far are you willing to go for revenge?",
+        "answers": [
+            {
+                "id": "190071238",
+                "answer": "I'm not really one for revenge.",
+                "scores": [
+                    6003752,
+                    6004282,
+                    6004416,
+                    6005030,
+                    6005534,
+                    6006866,
+                    6009663,
+                    6009899,
+                    6010076,
+                    6010694
+                ]
+            },
+            {
+                "id": "190071239",
+                "answer": "An eye for an eye.",
+                "scores": [
+                    6003419,
+                    6004331,
+                    6004636,
+                    6004705,
+                    6006925,
+                    6009459,
+                    6010285,
+                    6010304,
+                    6010426
+                ]
+            },
+            {
+                "id": "190071240",
+                "answer": "Great lengths-, perhaps too far at times.",
+                "scores": [
+                    6003754,
+                    6004267,
+                    6005169,
+                    6005339,
+                    6005487,
+                    6009476,
+                    6009513,
+                    6009524,
+                    6010252,
+                    6010344,
+                    6010383
+                ]
+            },
+            {
+                "id": "190071241",
+                "answer": "It depends on what the other individual did.",
+                "scores": [
+                    6003303,
+                    6003643,
+                    6004727,
+                    6009969,
+                    6010501,
+                    6010589
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "question": "How detail oriented are you?",
+        "answers": [
+            {
+                "id": "190071242",
+                "answer": "I remember practically everything.",
+                "scores": [
+                    6003419,
+                    6003589,
+                    6004307,
+                    6004363,
+                    6009509,
+                    6009513,
+                    6009671,
+                    6009884,
+                    6010076,
+                    6010285,
+                    6010304
+                ]
+            },
+            {
+                "id": "190071243",
+                "answer": "I may miss some pieces from time to time, but nothing that would make a huge difference.",
+                "scores": [
+                    6003686,
+                    6003729,
+                    6004705,
+                    6005062,
+                    6005321,
+                    6005377,
+                    6009632,
+                    6009920
+                ]
+            },
+            {
+                "id": "190071244",
+                "answer": "I am not that detail oriented, but can sometimes point out what is necessary.",
+                "scores": [
+                    6003303,
+                    6004182,
+                    6004491,
+                    6005006,
+                    6005030,
+                    6005192,
+                    6007006,
+                    6007077
+                ]
+            },
+            {
+                "id": "190071245",
+                "answer": "Not at all. I easily miss most crucial details...",
+                "scores": [
+                    6003438,
+                    6004609,
+                    6006780,
+                    6009998
+                ]
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "question": "Which do you value more, physical or mental strength?",
+        "answers": [
+            {
+                "id": "190071246",
+                "answer": "Physical strength",
+                "scores": [
+                    6003570,
+                    6003633,
+                    6004491,
+                    6004727,
+                    6005169,
+                    6005487,
+                    6007006,
+                    6009476,
+                    6009969
+                ]
+            },
+            {
+                "id": "190071247",
+                "answer": "Mental strength",
+                "scores": [
+                    6003210,
+                    6003686,
+                    6004307,
+                    6004363,
+                    6005607,
+                    6009459,
+                    6009632,
+                    6009650,
+                    6009952,
+                    6010044,
+                    6010614
+                ]
+            },
+            {
+                "id": "190071248",
+                "answer": "They are equally important to me.",
+                "scores": [
+                    6003380,
+                    6004059,
+                    6004636,
+                    6005220,
+                    6005652,
+                    6009540,
+                    6009884,
+                    6009920,
+                    6010462
+                ]
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "question": "When faced with an unfamiliar situation, how do you tend to tackle it?",
+        "answers": [
+            {
+                "id": "190071251",
+                "answer": "Feel incredible discomfort, but see where it goes.",
+                "scores": [
+                    6003290,
+                    6005447,
+                    6005607,
+                    6006866,
+                    6006925,
+                    6010383,
+                    6010426,
+                    6010589
+                ]
+            },
+            {
+                "id": "190071253",
+                "answer": "I tend to run straight into unfamiliar situations.",
+                "scores": [
+                    6003519,
+                    6004126,
+                    6004416,
+                    6005062,
+                    6005220,
+                    6009650,
+                    6009663,
+                    6009899,
+                    6009969,
+                    6010652
+                ]
+            },
+            {
+                "id": "190071249",
+                "answer": "Immediately shut down and don't face it.",
+                "scores": [
+                    6004705,
+                    6005169,
+                    6009605,
+                    6009998
+                ]
+            },
+            {
+                "id": "190071252",
+                "answer": "Take things cautiously step by step.",
+                "scores": [
+                    6003210,
+                    6003438,
+                    6003643,
+                    6004331,
+                    6004363,
+                    6005030,
+                    6005487,
+                    6007006,
+                    6009509,
+                    6010076
+                ]
+            },
+            {
+                "id": "190071250",
+                "answer": "Try to avoid it.",
+                "scores": [
+                    6003332,
+                    6004549,
+                    6005261,
+                    6005377,
+                    6007077,
+                    6010105
+                ]
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "question": "Would you consider yourself an introvert, extrovert or ambivert?",
+        "answers": [
+            {
+                "id": "190071254",
+                "answer": "Introvert",
+                "scores": [
+                    6003419,
+                    6003563,
+                    6003589,
+                    6003686,
+                    6004307,
+                    6004491,
+                    6005321,
+                    6005377,
+                    6006866,
+                    6009509,
+                    6009524,
+                    6009605,
+                    6010044,
+                    6010501,
+                    6010694
+                ]
+            },
+            {
+                "id": "190071255",
+                "answer": "Extrovert",
+                "scores": [
+                    6003303,
+                    6003332,
+                    6003519,
+                    6003570,
+                    6003752,
+                    6004126,
+                    6004331,
+                    6004727,
+                    6005030,
+                    6005062,
+                    6005192,
+                    6005261,
+                    6005534,
+                    6007077,
+                    6009513,
+                    6009632,
+                    6009663,
+                    6009884,
+                    6009899,
+                    6009952,
+                    6010090,
+                    6010285,
+                    6010344,
+                    6010614
+                ]
+            },
+            {
+                "id": "190071256",
+                "answer": "Ambivert",
+                "scores": [
+                    6003290,
+                    6003633,
+                    6003729,
+                    6004182,
+                    6004267,
+                    6004282,
+                    6004636,
+                    6005447,
+                    6005652,
+                    6006780,
+                    6006925,
+                    6009459,
+                    6009920,
+                    6010304,
+                    6010462,
+                    6010589,
+                    6010652
+                ]
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "question": "\"...\"",
+        "answers": [
+            {
+                "id": "190071257",
+                "answer": "wuh",
+                "scores": [
+                    6003210,
+                    6003633,
+                    6003752,
+                    6004491,
+                    6004727,
+                    6006780,
+                    6007006,
+                    6009952
+                ]
+            },
+            {
+                "id": "190071258",
+                "answer": "April Berry Moose Cake",
+                "scores": [
+                    6004182,
+                    6004609,
+                    6009650,
+                    6009663,
+                    6009920,
+                    6010252,
+                    6010304
+                ]
+            },
+            {
+                "id": "190071259",
+                "answer": "?????????????????",
+                "scores": [
+                    6003303,
+                    6003438,
+                    6003643,
+                    6004307,
+                    6004705,
+                    6010044,
+                    6010501,
+                    6010694
+                ]
+            },
+            {
+                "id": "190071260",
+                "answer": "hello?!",
+                "scores": [
+                    6003419,
+                    6005192,
+                    6005607,
+                    6010090,
+                    6010383,
+                    6010426,
+                    6010462
+                ]
+            },
+            {
+                "id": "190071261",
+                "answer": "Wake up.",
+                "scores": [
+                    6004059,
+                    6004549,
+                    6005006,
+                    6005377,
+                    6009540,
+                    6009671,
+                    6009998,
+                    6010076,
+                    6010105
+                ]
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "question": "How far do you push yourself when trying to achieve a goal?",
+        "answers": [
+            {
+                "id": "190071262",
+                "answer": "I'll keep pushing myself until I get what I want!",
+                "scores": [
+                    6003380,
+                    6003570,
+                    6003633,
+                    6003754,
+                    6004267,
+                    6004307,
+                    6004705,
+                    6005192,
+                    6005487,
+                    6009524,
+                    6009952,
+                    6010076,
+                    6010285,
+                    6010501
+                ]
+            },
+            {
+                "id": "190071263",
+                "answer": "I'm only willing to go so far before I draw a line for myself.",
+                "scores": [
+                    6003290,
+                    6003419,
+                    6004282,
+                    6004416,
+                    6005447,
+                    6006925,
+                    6009459,
+                    6009884,
+                    6009899,
+                    6010383
+                ]
+            },
+            {
+                "id": "190071264",
+                "answer": "I kinda struggle to keep pushing myself, honestly.",
+                "scores": [
+                    6003589,
+                    6005169,
+                    6005220,
+                    6007077,
+                    6010105,
+                    6010694
+                ]
+            },
+            {
+                "id": "190071265",
+                "answer": "I give up pretty quickly.",
+                "scores": [
+                    6003563,
+                    6005321,
+                    6006866
+                ]
+            },
+            {
+                "id": "190071266",
+                "answer": "Push myself? I just push others to do it for me.",
+                "scores": [
+                    6004331,
+                    6005339,
+                    6005652,
+                    6009513,
+                    6009632,
+                    6010614
+                ]
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "question": "Do you make use of sarcasm? If yes, in what manner?",
+        "answers": [
+            {
+                "id": "190071267",
+                "answer": "I use sarcasm a lot, and mostly because it's funny!",
+                "scores": [
+                    6003519,
+                    6004182,
+                    6004609,
+                    6005192,
+                    6007006,
+                    6009920,
+                    6010252,
+                    6010304
+                ]
+            },
+            {
+                "id": "190071268",
+                "answer": "I use sarcasm a lot, but mostly as a defense mechanism.",
+                "scores": [
+                    6003332,
+                    6003563,
+                    6004059,
+                    6004126,
+                    6006866,
+                    6007077,
+                    6009509,
+                    6009605,
+                    6010105,
+                    6010285,
+                    6010426,
+                    6010589
+                ]
+            },
+            {
+                "id": "190071269",
+                "answer": "I use sarcasm, but not that often-, only when people are being snarky to me as well.",
+                "scores": [
+                    6003729,
+                    6004491,
+                    6005534,
+                    6009663,
+                    6010090,
+                    6010344
+                ]
+            },
+            {
+                "id": "190071270",
+                "answer": "I don't really use sarcasm at all.",
+                "scores": [
+                    6003380,
+                    6003686,
+                    6003752,
+                    6004636,
+                    6005006,
+                    6005030,
+                    6005062,
+                    6005261,
+                    6005377,
+                    6006780,
+                    6009650,
+                    6009671,
+                    6010044
+                ]
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "question": "How do you cut your sandwiches?",
+        "answers": [
+            {
+                "id": "190071271",
+                "answer": "I cut them into rectangles or squares.",
+                "scores": [
+                    6004059,
+                    6004307,
+                    6004636,
+                    6005030,
+                    6005487,
+                    6005652,
+                    6006925,
+                    6009509,
+                    6010589
+                ]
+            },
+            {
+                "id": "190071272",
+                "answer": "I cut them diagonally into triangles.",
+                "scores": [
+                    6003589,
+                    6003643,
+                    6004182,
+                    6005220,
+                    6005534,
+                    6009899,
+                    6010652
+                ]
+            },
+            {
+                "id": "190071273",
+                "answer": "I don't cut the sandwich, I just eat it as is.",
+                "scores": [
+                    6003438,
+                    6003686,
+                    6004549,
+                    6005447,
+                    6005607,
+                    6010462
+                ]
+            },
+            {
+                "id": "190071274",
+                "answer": "I don't eat sandwiches.",
+                "scores": [
+                    6004363,
+                    6009540,
+                    6009671,
+                    6009884,
+                    6009998,
+                    6010044,
+                    6010344
+                ]
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "question": "190071275",
+        "answers": [
+            {
+                "id": "190071276",
+                "answer": "I want to use it for the greater good and use it responsibly.",
+                "scores": [
+                    6003332,
+                    6003419,
+                    6004126,
+                    6004267,
+                    6004705,
+                    6005192,
+                    6005321,
+                    6005487,
+                    6005652,
+                    6009524,
+                    6010076,
+                    6010285,
+                    6010304
+                ]
+            },
+            {
+                "id": "190071277",
+                "answer": "I use it according to my own whims-, sometimes selfishly, sometimes with good intentions.",
+                "scores": [
+                    6003570,
+                    6003754,
+                    6005339,
+                    6007077,
+                    6009459,
+                    6009513,
+                    6009605,
+                    6009632,
+                    6009998,
+                    6010252,
+                    6010383,
+                    6010614
+                ]
+            },
+            {
+                "id": "190071278",
+                "answer": "Are you kidding? This is for me only!",
+                "scores": [
+                    6003303,
+                    6003380,
+                    6003633,
+                    6004059,
+                    6004549,
+                    6004609,
+                    6009476,
+                    6010652
+                ]
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "question": "You hear your parents coming back home and everything is a mess around you. What do you do?",
+        "answers": [
+            {
+                "id": "190071279",
+                "answer": "Take the L and own up to it that you forgot to clean.",
+                "scores": [
+                    6003563,
+                    6003643,
+                    6003686,
+                    6004282,
+                    6005062,
+                    6006925,
+                    6009476,
+                    6010105,
+                    6010462,
+                    6010652,
+                    6010694
+                ]
+            },
+            {
+                "id": "190071282",
+                "answer": "What mess? It's never messy here.",
+                "scores": [
+                    6004636,
+                    6005377,
+                    6005534,
+                    6009509,
+                    6010044,
+                    6010076
+                ]
+            },
+            {
+                "id": "190071283",
+                "answer": "Not my mess, not my responsibility.",
+                "scores": [
+                    6005006,
+                    6005339,
+                    6005652,
+                    6009513,
+                    6009524,
+                    6009884,
+                    6010252,
+                    6010383,
+                    6010501,
+                    6010614
+                ]
+            },
+            {
+                "id": "190071281",
+                "answer": "Don't call it a mess! It's an organized chaos.",
+                "scores": [
+                    6003752,
+                    6004182,
+                    6004416,
+                    6004609,
+                    6009650,
+                    6009663,
+                    6009899,
+                    6009920,
+                    6010090,
+                    6010304
+                ]
+            },
+            {
+                "id": "190071280",
+                "answer": "Shove everything under the couch, quickly!",
+                "scores": [
+                    6003438,
+                    6003519,
+                    6003729,
+                    6005030,
+                    6005169,
+                    6005220,
+                    6006780,
+                    6009952,
+                    6010426
+                ]
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "question": "How do you cope when being faced with a negative situation?",
+        "answers": [
+            {
+                "id": "190071284",
+                "answer": "Fuck it we ball.",
+                "scores": [
+                    6003519,
+                    6004609,
+                    6009650,
+                    6009663,
+                    6009884,
+                    6010252
+                ]
+            },
+            {
+                "id": "190071285",
+                "answer": "I try to swallow my feelings the best I can, but it'll eventually burst out.",
+                "scores": [
+                    6003419,
+                    6004126,
+                    6005169,
+                    6005220,
+                    6005261,
+                    6007006,
+                    6010344
+                ]
+            },
+            {
+                "id": "190071286",
+                "answer": "I allow myself to be upset, but try to pull myself together after a while.",
+                "scores": [
+                    6003290,
+                    6003438,
+                    6003589,
+                    6004307,
+                    6005447,
+                    6005534,
+                    6010462,
+                    6010589
+                ]
+            },
+            {
+                "id": "190071287",
+                "answer": "I crumble immediately, I struggle immensely with hiding how I feel as a whole anyways.",
+                "scores": [
+                    6003570,
+                    6003754,
+                    6004126,
+                    6005321,
+                    6005487,
+                    6009524,
+                    6009605
+                ]
+            },
+            {
+                "id": "190071288",
+                "answer": "I may be upset at first, but I still try to see the silver lining to everything and keep going that way.",
+                "scores": [
+                    6003729,
+                    6004416,
+                    6005062,
+                    6009899,
+                    6010044
+                ]
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "question": "Do you worry about punctuation when casually texting?",
+        "answers": [
+            {
+                "id": "190071289",
+                "answer": "Yes. Good punctuation is always important.",
+                "scores": [
+                    6003563,
+                    6003589,
+                    6004059,
+                    6004307,
+                    6004549,
+                    6004727,
+                    6005377,
+                    6005447,
+                    6006780,
+                    6009476,
+                    6009605,
+                    6009632
+                ]
+            },
+            {
+                "id": "190071290",
+                "answer": "Eh, not always",
+                "scores": [
+                    6003438,
+                    6003633,
+                    6003686,
+                    6004491,
+                    6005006,
+                    6005030,
+                    6006925,
+                    6007006,
+                    6009998,
+                    6010105,
+                    6010304,
+                    6010426,
+                    6010589
+                ]
+            },
+            {
+                "id": "190071291",
+                "answer": "lol nope, could not care less",
+                "scores": [
+                    6003303,
+                    6003519,
+                    6004182,
+                    6004609,
+                    6005192,
+                    6006866,
+                    6009459,
+                    6009663,
+                    6009952,
+                    6009969,
+                    6010090,
+                    6010285,
+                    6010501
+                ]
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "question": "How often do you take risks?",
+        "answers": [
+            {
+                "id": "190071292",
+                "answer": "No risk, no reward! I was BORN to take them.",
+                "scores": [
+                    6003380,
+                    6003570,
+                    6003633,
+                    6004267,
+                    6005192,
+                    6005607,
+                    6009969,
+                    6010652
+                ]
+            },
+            {
+                "id": "190071293",
+                "answer": "I take risks pretty often, but do have a limit to how many I'm willing to take.",
+                "scores": [
+                    6003290,
+                    6003303,
+                    6003752,
+                    6004126,
+                    6004331,
+                    6004416,
+                    6005169,
+                    6005534,
+                    6007077,
+                    6009509,
+                    6009899
+                ]
+            },
+            {
+                "id": "190071294",
+                "answer": "I carefully weigh my options and then choose to take a risk or not, so it's not THAT often.",
+                "scores": [
+                    6003210,
+                    6003332,
+                    6004282,
+                    6005062,
+                    6005321,
+                    6005652,
+                    6009513,
+                    6009920,
+                    6010383
+                ]
+            },
+            {
+                "id": "190071295",
+                "answer": "I rarely ever decide it's worth it, really.",
+                "scores": [
+                    6003643,
+                    6004363,
+                    6004636,
+                    6009476,
+                    6009671,
+                    6010462
+                ]
+            },
+            {
+                "id": "190071296",
+                "answer": "I don't take risks.",
+                "scores": [
+                    6004549,
+                    6005006,
+                    6006866,
+                    6009540,
+                    6010694
+                ]
+            },
+            {
+                "id": "190071297",
+                "answer": "Huh? There's a risk to that? I didn't even realize, nor do I really care.",
+                "scores": [
+                    6004705,
+                    6005339,
+                    6006780,
+                    6009632,
+                    6010090,
+                    6010304,
+                    6010614
+                ]
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "question": "Out of these, which do you prefer?",
+        "answers": [
+            {
+                "id": "190071298",
+                "answer": "Spicy",
+                "scores": [
+                    6003290,
+                    6003332,
+                    6003380,
+                    6003633,
+                    6003752,
+                    6004416,
+                    6004727,
+                    6005006,
+                    6007006,
+                    6009969,
+                    6010304
+                ]
+            },
+            {
+                "id": "190071299",
+                "answer": "Sweet",
+                "scores": [
+                    6003210,
+                    6003438,
+                    6003589,
+                    6004282,
+                    6004363,
+                    6004705,
+                    6005062,
+                    6005487,
+                    6009899,
+                    6010501,
+                    6010589,
+                    6010694
+                ]
+            },
+            {
+                "id": "190071300",
+                "answer": "Dry",
+                "scores": [
+                    6003303,
+                    6003643,
+                    6003686,
+                    6003754,
+                    6004126,
+                    6005607,
+                    6005652,
+                    6009476,
+                    6010105,
+                    6010344,
+                    6010383,
+                    6010426,
+                    6010462
+                ]
+            },
+            {
+                "id": "190071301",
+                "answer": "Bitter",
+                "scores": [
+                    6003419,
+                    6004059,
+                    6004549,
+                    6004636,
+                    6005220,
+                    6005261,
+                    6005321,
+                    6005534,
+                    6006925,
+                    6007077,
+                    6009509,
+                    6009524,
+                    6009920,
+                    6009952,
+                    6010044,
+                    6010285,
+                    6010652
+                ]
+            },
+            {
+                "id": "190071302",
+                "answer": "Sour",
+                "scores": [
+                    6003570,
+                    6003729,
+                    6004182,
+                    6004267,
+                    6004331,
+                    6006780,
+                    6009459,
+                    6009513,
+                    6009632,
+                    6009663,
+                    6009998,
+                    6010252,
+                    6010614
+                ]
+            },
+            {
+                "id": "190071303",
+                "answer": "I'm not picky!",
+                "scores": [
+                    6003519,
+                    6003563,
+                    6004307,
+                    6004491,
+                    6004609,
+                    6005030,
+                    6005339,
+                    6005377,
+                    6005447,
+                    6006866,
+                    6009605,
+                    6009650,
+                    6009671,
+                    6009884,
+                    6010076,
+                    6010090
+                ]
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "question": "Are you firm in your beliefs or easily malleable?",
+        "answers": [
+            {
+                "id": "190071304",
+                "answer": "I will hold on to my beliefs no matter what.",
+                "scores": [
+                    6003754,
+                    6004267,
+                    6004331,
+                    6004549,
+                    6004636,
+                    6005652,
+                    6009998
+                ]
+            },
+            {
+                "id": "190071305",
+                "answer": "I'm steadfast in my beliefs, but it's possible to change my mind when given good reason to do so.",
+                "scores": [
+                    6003210,
+                    6003290,
+                    6003419,
+                    6003563,
+                    6005261,
+                    6009605,
+                    6009663,
+                    6010105,
+                    6010383,
+                    6010652
+                ]
+            },
+            {
+                "id": "190071306",
+                "answer": "I'm pretty flexible, but I do have a small handful of core beliefs that I will stick to.",
+                "scores": [
+                    6004282,
+                    6004727,
+                    6005220,
+                    6006780,
+                    6010426
+                ]
+            },
+            {
+                "id": "190071307",
+                "answer": "I sway pretty easily when it comes to my beliefs.",
+                "scores": [
+                    6003589,
+                    6006866,
+                    6010090
+                ]
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "question": "Choose a location.",
+        "answers": [
+            {
+                "id": "190071315",
+                "answer": "A cave entrance with a pool of water and grass covered rocks, with a light shining through the ceiling.",
+                "scores": [
+                    6003332,
+                    6003519,
+                    6005169,
+                    6005652,
+                    6006925,
+                    6007077,
+                    6009513,
+                    6010285,
+                    6010694
+                ]
+            },
+            {
+                "id": "190071308",
+                "answer": "A perfectly white snow covered and calm forest.",
+                "scores": [
+                    6003633,
+                    6003754,
+                    6004059,
+                    6004705,
+                    6005377,
+                    6005534
+                ]
+            },
+            {
+                "id": "190071312",
+                "answer": "A smokey pool of magma flowing down a volcano into multiple paths.",
+                "scores": [
+                    6004126,
+                    6005030,
+                    6005447,
+                    6007006,
+                    6009459,
+                    6009509,
+                    6009540,
+                    6009920
+                ]
+            },
+            {
+                "id": "190071311",
+                "answer": "A view of a city street with tall buldings, a clock tower, from the middle of the road with cars around.",
+                "scores": [
+                    6004182,
+                    6004282,
+                    6004609,
+                    6004636,
+                    6009524,
+                    6009899,
+                    6009952,
+                    6010090,
+                    6010105,
+                    6010252,
+                    6010304,
+                    6010344,
+                    6010501,
+                    6010589,
+                    6010614
+                ]
+            },
+            {
+                "id": "190071313",
+                "answer": "A tropical island with palm trees and corals under a clear blue body of water.",
+                "scores": [
+                    6003729,
+                    6005062,
+                    6005261,
+                    6009476,
+                    6010044,
+                    6010426
+                ]
+            },
+            {
+                "id": "190071309",
+                "answer": "A snow covered mountain peak, under a blue sky, surrounded by a mountain chain.",
+                "scores": [
+                    6004491,
+                    6004549,
+                    6005192,
+                    6005220,
+                    6006780,
+                    6006866
+                ]
+            },
+            {
+                "id": "190071310",
+                "answer": "A pass through a forest with orange, green and gold colored trees. A shining ray pierces throught the sky.",
+                "scores": [
+                    6003380,
+                    6003643,
+                    6003752,
+                    6004267,
+                    6004363,
+                    6004416,
+                    6005321,
+                    6005607,
+                    6009969
+                ]
+            },
+            {
+                "id": "190071316",
+                "answer": "A never ending hole inside a deep yellow rock cave, at the end of a tunnel.",
+                "scores": [
+                    6005339,
+                    6009632,
+                    6009671,
+                    6009884,
+                    6010383
+                ]
+            },
+            {
+                "id": "190071314",
+                "answer": "A green hill with bushes and grass, spreading as far as the eye can see, under a twilight colored sky.",
+                "scores": [
+                    6003686,
+                    6004727,
+                    6005006,
+                    6005487,
+                    6009650,
+                    6010462
+                ]
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "question": "How good are you with managing money?",
+        "answers": [
+            {
+                "id": "190071317",
+                "answer": "I'm very efficient and well-managed when it comes to spending money!",
+                "scores": [
+                    6003752,
+                    6004059,
+                    6004636,
+                    6005062,
+                    6005261,
+                    6005447,
+                    6005534,
+                    6009513,
+                    6009605,
+                    6010304,
+                    6010426,
+                    6010614
+                ]
+            },
+            {
+                "id": "190071318",
+                "answer": "I can manage just fine, but sometimes someone's gotta keep me in check.",
+                "scores": [
+                    6003210,
+                    6003419,
+                    6003633,
+                    6003643,
+                    6005487,
+                    6010105,
+                    6010501,
+                    6010589,
+                    6010652
+                ]
+            },
+            {
+                "id": "190071319",
+                "answer": "I manage... somehow... but I do need assistance from time to time.",
+                "scores": [
+                    6003290,
+                    6003303,
+                    6004126,
+                    6004182,
+                    6005030
+                ]
+            },
+            {
+                "id": "190071320",
+                "answer": "I'm not that great at managing my money... but it could be worse!",
+                "scores": [
+                    6003729,
+                    6005169,
+                    6005607
+                ]
+            },
+            {
+                "id": "190071321",
+                "answer": "My spending habits are SO BAD.",
+                "scores": [
+                    6003438,
+                    6003519,
+                    6005192,
+                    6007077,
+                    6009632,
+                    6010090,
+                    6010383
+                ]
+            },
+            {
+                "id": "190071322",
+                "answer": "lol what money.",
+                "scores": [
+                    6004705,
+                    6004727,
+                    6005652,
+                    6006780,
+                    6007006,
+                    6009952,
+                    6010076,
+                    6010694
+                ]
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "question": "How much do you sleep in a night?",
+        "answers": [
+            {
+                "id": "190071323",
+                "answer": "I get 8 hours or more hours every night.",
+                "scores": [
+                    6003380,
+                    6003438,
+                    6003589,
+                    6003729,
+                    6004059,
+                    6004282,
+                    6004307,
+                    6004636,
+                    6005062,
+                    6005534,
+                    6009509,
+                    6009663,
+                    6010462
+                ]
+            },
+            {
+                "id": "190071324",
+                "answer": "I get about 6-8 hours on average.",
+                "scores": [
+                    6003290,
+                    6003419,
+                    6003519,
+                    6003633,
+                    6003752
+                ]
+            },
+            {
+                "id": "190071325",
+                "answer": "I only get about 4-6 hours.",
+                "scores": [
+                    6004549,
+                    6005006,
+                    6005220,
+                    6006925
+                ]
+            },
+            {
+                "id": "190071326",
+                "answer": "I, uh, get less than 4 hours usually...",
+                "scores": [
+                    6003563,
+                    6010252
+                ]
+            },
+            {
+                "id": "190071327",
+                "answer": "I pull all nighters more often than not.",
+                "scores": [
+                    6003686,
+                    6004331,
+                    6009540,
+                    6010076
+                ]
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "question": "Pick a trait you like about yourself.",
+        "answers": [
+            {
+                "id": "190071333",
+                "answer": "Loyal",
+                "scores": [
+                    6003290,
+                    6005377,
+                    6005487,
+                    6006866,
+                    6009920,
+                    6009998
+                ]
+            },
+            {
+                "id": "190071335",
+                "answer": "Humorous",
+                "scores": [
+                    6003332,
+                    6005192,
+                    6010090
+                ]
+            },
+            {
+                "id": "190071329",
+                "answer": "Honest",
+                "scores": [
+                    6004282,
+                    6006780,
+                    6010076
+                ]
+            },
+            {
+                "id": "190071330",
+                "answer": "Responsible",
+                "scores": [
+                    6003210,
+                    6003729,
+                    6004059,
+                    6006925
+                ]
+            },
+            {
+                "id": "190071336",
+                "answer": "Strong",
+                "scores": [
+                    6004491,
+                    6005006,
+                    6009605
+                ]
+            },
+            {
+                "id": "190071334",
+                "answer": "Optimistic",
+                "scores": [
+                    6003380,
+                    6003438,
+                    6004416,
+                    6009899,
+                    6009952
+                ]
+            },
+            {
+                "id": "190071332",
+                "answer": "Patient",
+                "scores": [
+                    6004363,
+                    6004549,
+                    6005534,
+                    6009509
+                ]
+            },
+            {
+                "id": "190071337",
+                "answer": "Creative",
+                "scores": [
+                    6004126,
+                    6004609,
+                    6004705
+                ]
+            },
+            {
+                "id": "190071331",
+                "answer": "Kind",
+                "scores": [
+                    6003589,
+                    6005261,
+                    6010044
+                ]
+            },
+            {
+                "id": "190071328",
+                "answer": "Brave",
+                "scores": [
+                    6003303,
+                    6003633,
+                    6004727,
+                    6009969
+                ]
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "question": "Pick a trait you dislike about yourself.",
+        "answers": [
+            {
+                "id": "190071339",
+                "answer": "Cocky",
+                "scores": [
+                    6003570,
+                    6004182,
+                    6004609,
+                    6009884,
+                    6010589
+                ]
+            },
+            {
+                "id": "190071346",
+                "answer": "Paranoid",
+                "scores": [
+                    6004126,
+                    6004331,
+                    6005321,
+                    6010652
+                ]
+            },
+            {
+                "id": "190071347",
+                "answer": "Obsessive",
+                "scores": [
+                    6009476,
+                    6009605,
+                    6010501
+                ]
+            },
+            {
+                "id": "190071343",
+                "answer": "Selfish",
+                "scores": [
+                    6007077,
+                    6009524,
+                    6010304,
+                    6010614
+                ]
+            },
+            {
+                "id": "190071340",
+                "answer": "Dishonest",
+                "scores": [
+                    6005339,
+                    6009513,
+                    6010383
+                ]
+            },
+            {
+                "id": "190071342",
+                "answer": "Impulsive",
+                "scores": [
+                    6003210,
+                    6003380,
+                    6003633,
+                    6004059,
+                    6010344,
+                    6010426
+                ]
+            },
+            {
+                "id": "190071341",
+                "answer": "Passive",
+                "scores": [
+                    6003563,
+                    6003643,
+                    6003729,
+                    6006866
+                ]
+            },
+            {
+                "id": "190071338",
+                "answer": "Childish",
+                "scores": [
+                    6003438,
+                    6004705,
+                    6009632
+                ]
+            },
+            {
+                "id": "190071345",
+                "answer": "Violent",
+                "scores": [
+                    6003754,
+                    6009459,
+                    6010252,
+                    6010285
+                ]
+            },
+            {
+                "id": "190071344",
+                "answer": "Shy",
+                "scores": [
+                    6003589,
+                    6010694
+                ]
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "question": "If you were a Pokémon, which base stat would be your best?",
+        "answers": [
+            {
+                "id": "190071348",
+                "answer": "HP",
+                "scores": [
+                    6003633,
+                    6005030,
+                    6005220,
+                    6005447,
+                    6010090,
+                    6010105
+                ]
+            },
+            {
+                "id": "190071349",
+                "answer": "Attack",
+                "scores": [
+                    6003303,
+                    6003380,
+                    6005006,
+                    6005169,
+                    6005487,
+                    6007006,
+                    6009663,
+                    6009969,
+                    6010285
+                ]
+            },
+            {
+                "id": "190071350",
+                "answer": "Defense",
+                "scores": [
+                    6004267,
+                    6004491,
+                    6004549,
+                    6004636,
+                    6010426,
+                    6010589
+                ]
+            },
+            {
+                "id": "190071351",
+                "answer": "Special Attack",
+                "scores": [
+                    6003332,
+                    6004307,
+                    6005321,
+                    6005607,
+                    6009671,
+                    6009920,
+                    6010076,
+                    6010252
+                ]
+            },
+            {
+                "id": "190071352",
+                "answer": "Special Defense",
+                "scores": [
+                    6003419,
+                    6003643,
+                    6004363,
+                    6009650,
+                    6009884,
+                    6009998,
+                    6010044
+                ]
+            },
+            {
+                "id": "190071353",
+                "answer": "Speed",
+                "scores": [
+                    6003686,
+                    6004416,
+                    6005377,
+                    6005652,
+                    6009459,
+                    6009899,
+                    6010462
+                ]
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "question": "you see a silly lil guy just... just SITTING there. what do you do :3",
+        "answers": [
+            {
+                "id": "190071354",
+                "answer": "kill.",
+                "scores": [
+                    6003754,
+                    6005339,
+                    6009459,
+                    6009513,
+                    6009540,
+                    6009632,
+                    6009671,
+                    6009884,
+                    6010252,
+                    6010614
+                ]
+            },
+            {
+                "id": "190071355",
+                "answer": "punt it",
+                "scores": [
+                    6003570,
+                    6005006,
+                    6005192,
+                    6005487,
+                    6007077,
+                    6009998,
+                    6010285
+                ]
+            },
+            {
+                "id": "190071356",
+                "answer": "ignore it",
+                "scores": [
+                    6004059,
+                    6004636,
+                    6005652,
+                    6006866,
+                    6007006,
+                    6009476,
+                    6009509,
+                    6009524,
+                    6010076,
+                    6010383,
+                    6010426,
+                    6010501
+                ]
+            },
+            {
+                "id": "190071357",
+                "answer": "give it a nice little treat",
+                "scores": [
+                    6003332,
+                    6003589,
+                    6004331,
+                    6005169,
+                    6005321,
+                    6005534,
+                    6005607,
+                    6006780,
+                    6006925,
+                    6010044
+                ]
+            },
+            {
+                "id": "190071358",
+                "answer": "go out for soft tacos later with it",
+                "scores": [
+                    6003332,
+                    6003752,
+                    6004416,
+                    6005062,
+                    6005261,
+                    6010589,
+                    6010652
+                ]
+            },
+            {
+                "id": "190071359",
+                "answer": "become immediate besties with it",
+                "scores": [
+                    6003519,
+                    6004182,
+                    6004609,
+                    6009650,
+                    6009663,
+                    6009952,
+                    6010090,
+                    6010462,
+                    6010694
+                ]
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "question": "Do you set up long or short term goals?",
+        "answers": [
+            {
+                "id": "190071360",
+                "answer": "I almost exclusively set up long term goals.",
+                "scores": [
+                    6003210,
+                    6003643,
+                    6004363,
+                    6004549,
+                    6005339,
+                    6005487,
+                    6005607,
+                    6005652,
+                    6009476,
+                    6009513,
+                    6009605,
+                    6010285,
+                    6010501
+                ]
+            },
+            {
+                "id": "190071361",
+                "answer": "I set up a mix between long and short term goals!",
+                "scores": [
+                    6003290,
+                    6003419,
+                    6003686,
+                    6003752,
+                    6004059,
+                    6004182,
+                    6004705,
+                    6005447,
+                    6009509,
+                    6009524,
+                    6009671,
+                    6010076,
+                    6010344,
+                    6010383,
+                    6010462,
+                    6010589,
+                    6010652
+                ]
+            },
+            {
+                "id": "190071362",
+                "answer": "I prefer setting up short term goals.",
+                "scores": [
+                    6003563,
+                    6003589,
+                    6004416,
+                    6005062,
+                    6005220,
+                    6007077,
+                    6009671,
+                    6009899,
+                    6009952,
+                    6009969,
+                    6010105
+                ]
+            },
+            {
+                "id": "190071363",
+                "answer": "Honestly, I don't really ever know what to work towards, so I just go with the flow.",
+                "scores": [
+                    6003332,
+                    6003519,
+                    6004126,
+                    6004491,
+                    6004727,
+                    6005192,
+                    6005321,
+                    6005377,
+                    6006780,
+                    6007006,
+                    6009650,
+                    6009663,
+                    6009920
+                ]
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "question": "How do you feel or go about Monday mornings?",
+        "answers": [
+            {
+                "id": "190071364",
+                "answer": "Do NOT touch me until I've had my coffee.",
+                "scores": [
+                    6003563,
+                    6003729,
+                    6004609,
+                    6005487,
+                    6006925,
+                    6009509,
+                    6009899,
+                    6010105,
+                    6010252,
+                    6010285,
+                    6010426
+                ]
+            },
+            {
+                "id": "190071365",
+                "answer": "I don't really see the issue? It's just like any other morning.",
+                "scores": [
+                    6003290,
+                    6003633,
+                    6004059,
+                    6004636,
+                    6005261,
+                    6006780,
+                    6009540,
+                    6010304
+                ]
+            },
+            {
+                "id": "190071366",
+                "answer": "Goodbye sweet freedom of the weekend...",
+                "scores": [
+                    6003303,
+                    6004126,
+                    6006866,
+                    6009920,
+                    6010090,
+                    6010344,
+                    6010589
+                ]
+            },
+            {
+                "id": "190071367",
+                "answer": "Let's get this started! I'm excited to get back to work!",
+                "scores": [
+                    6003380,
+                    6004282,
+                    6004705,
+                    6005030,
+                    6005377,
+                    6005607,
+                    6009650,
+                    6010462,
+                    6010694
+                ]
+            },
+            {
+                "id": "190071368",
+                "answer": "I put my mind on autopilot and go.",
+                "scores": [
+                    6003686,
+                    6004363,
+                    6004491,
+                    6005220,
+                    6005321,
+                    6009671,
+                    6010383,
+                    6010501
+                ]
+            },
+            {
+                "id": "190071369",
+                "answer": "I experience murderous urges if someone tries to talk to me before lunch.",
+                "scores": [
+                    6003570,
+                    6003754,
+                    6004267,
+                    6005006,
+                    6005169,
+                    6005192,
+                    6005339,
+                    6009459,
+                    6009513,
+                    6009632
+                ]
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "question": "Pick a guilty pleasure.",
+        "answers": [
+            {
+                "id": "190071370",
+                "answer": "Singing along loudly with shitty songs",
+                "scores": [
+                    6003303,
+                    6004126,
+                    6005220,
+                    6006780,
+                    6009650,
+                    6009952
+                ]
+            },
+            {
+                "id": "190071371",
+                "answer": "Eating a tub of ice cream late at night",
+                "scores": [
+                    6003438,
+                    6004705,
+                    6005534,
+                    6009509,
+                    6010426
+                ]
+            },
+            {
+                "id": "190071372",
+                "answer": "Sleeping in late",
+                "scores": [
+                    6003729,
+                    6004331,
+                    6007006,
+                    6010105
+                ]
+            },
+            {
+                "id": "190071373",
+                "answer": "Reading up on drama or gossip",
+                "scores": [
+                    6003210,
+                    6005030,
+                    6005169,
+                    6007077,
+                    6009899,
+                    6009920
+                ]
+            },
+            {
+                "id": "190071374",
+                "answer": "Eating greasy fast foods",
+                "scores": [
+                    6003332,
+                    6004307,
+                    6004727,
+                    6006866,
+                    6009663,
+                    6009969
+                ]
+            },
+            {
+                "id": "190071375",
+                "answer": "Binge watching entire seasons of a show",
+                "scores": [
+                    6003519,
+                    6003643,
+                    6004182,
+                    6006925,
+                    6010344,
+                    6010694
+                ]
+            },
+            {
+                "id": "190071376",
+                "answer": "Splurging on online shopping",
+                "scores": [
+                    6003419,
+                    6004609,
+                    6005192,
+                    6010090,
+                    6010304,
+                    6010383
+                ]
+            },
+            {
+                "id": "190071377",
+                "answer": "Trolling people on the internet.",
+                "scores": [
+                    6009459,
+                    6009632,
+                    6009671,
+                    6009884,
+                    6009998,
+                    6010252
+                ]
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "question": "If you could get a dream job in any field you wanted, what field would you choose?",
+        "answers": [
+            {
+                "id": "190071378",
+                "answer": "Tech",
+                "scores": [
+                    6003589,
+                    6004609,
+                    6006925,
+                    6009509,
+                    6010044,
+                    6010285
+                ]
+            },
+            {
+                "id": "190071379",
+                "answer": "Geography",
+                "scores": [
+                    6003290,
+                    6004416,
+                    6005220
+                ]
+            },
+            {
+                "id": "190071380",
+                "answer": "History",
+                "scores": [
+                    6003519,
+                    6003686,
+                    6004549
+                ]
+            },
+            {
+                "id": "190071381",
+                "answer": "Biology",
+                "scores": [
+                    6003729,
+                    6004267,
+                    6010105
+                ]
+            },
+            {
+                "id": "190071382",
+                "answer": "Creative arts",
+                "scores": [
+                    6003210,
+                    6003643,
+                    6005652
+                ]
+            },
+            {
+                "id": "190071383",
+                "answer": "Writing or Linguistics",
+                "scores": [
+                    6004059,
+                    6006780
+                ]
+            },
+            {
+                "id": "190071384",
+                "answer": "Journalism",
+                "scores": [
+                    6004307,
+                    6005062,
+                    6009899
+                ]
+            },
+            {
+                "id": "190071385",
+                "answer": "Politics",
+                "scores": [
+                    6004282,
+                    6004636,
+                    6005006,
+                    6005487,
+                    6009513,
+                    6010614
+                ]
+            },
+            {
+                "id": "190071386",
+                "answer": "Law",
+                "scores": [
+                    6003752,
+                    6005447,
+                    6010304,
+                    6010426,
+                    6010652
+                ]
+            },
+            {
+                "id": "190071387",
+                "answer": "Sports",
+                "scores": [
+                    6003380,
+                    6003633,
+                    6005030,
+                    6007006,
+                    6010462
+                ]
+            },
+            {
+                "id": "190071388",
+                "answer": "Fashion",
+                "scores": [
+                    6003419,
+                    6005169,
+                    6005261,
+                    6009605,
+                    6010383
+                ]
+            },
+            {
+                "id": "190071389",
+                "answer": "Music or Entertainment",
+                "scores": [
+                    6003303,
+                    6004126,
+                    6009650,
+                    6009952,
+                    6010285
+                ]
+            },
+            {
+                "id": "190071390",
+                "answer": "Catering Industry",
+                "scores": [
+                    6004331,
+                    6004363,
+                    6005377,
+                    6005534
+                ]
+            },
+            {
+                "id": "190071391",
+                "answer": "Game Development",
+                "scores": [
+                    6004182,
+                    6010076
+                ]
+            },
+            {
+                "id": "190071392",
+                "answer": "I'd prefer it if I didn't have to work at all, really.",
+                "scores": [
+                    6003570,
+                    6009632,
+                    6009663,
+                    6010252
+                ]
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "question": "How superstitious are you? For example, do you believe in the occult and the supernatural?",
+        "answers": [
+            {
+                "id": "190071393",
+                "answer": "I'm very superstitious! ",
+                "scores": [
+                    6003438,
+                    6003563,
+                    6003633,
+                    6004363,
+                    6005321,
+                    6005447,
+                    6005607,
+                    6005652,
+                    6009969,
+                    6009998
+                ]
+            },
+            {
+                "id": "190071394",
+                "answer": "I believe in ghosts and spirits, but that's about it.",
+                "scores": [
+                    6003332,
+                    6003643,
+                    6003686,
+                    6004727,
+                    6005062,
+                    6006780,
+                    6007077,
+                    6009952,
+                    6010304,
+                    6010426,
+                    6010694
+                ]
+            },
+            {
+                "id": "190071395",
+                "answer": "I'm not superstitious at all.",
+                "scores": [
+                    6003290,
+                    6003752,
+                    6004491,
+                    6004636,
+                    6005030,
+                    6005261,
+                    6009476,
+                    6010044,
+                    6010285,
+                    6010501
+                ]
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "question": "How do you respond to criticism?",
+        "answers": [
+            {
+                "id": "190071396",
+                "answer": "I handle it gracefully and use the criticism to do better next time. I might even ask for more in-depth explanation.",
+                "scores": [
+                    6003589,
+                    6003752,
+                    6004307,
+                    6009899,
+                    6010462
+                ]
+            },
+            {
+                "id": "190071397",
+                "answer": "I get a bit mad, but then I still take it into account to learn and grow from it.",
+                "scores": [
+                    6003303,
+                    6003643,
+                    6004126,
+                    6005447,
+                    6009920,
+                    6010501
+                ]
+            },
+            {
+                "id": "190071398",
+                "answer": "It really depends-, is it constructive or destructive criticism? I can handle the former fine, but the latter will piss me off.",
+                "scores": [
+                    6003380,
+                    6004282,
+                    6004331,
+                    6004549,
+                    6007006,
+                    6010344
+                ]
+            },
+            {
+                "id": "190071399",
+                "answer": "I ignore the criticism out of spite. Who are you to tell me what I should and shouldn't do?",
+                "scores": [
+                    6003519,
+                    6003570,
+                    6005006,
+                    6005487,
+                    6005652,
+                    6007077,
+                    6009476,
+                    6009605,
+                    6009884,
+                    6010383,
+                    6010614
+                ]
+            },
+            {
+                "id": "190071400",
+                "answer": "I can't handle criticism well at all.",
+                "scores": [
+                    6003563,
+                    6005169,
+                    6005321,
+                    6009524
+                ]
+            },
+            {
+                "id": "190071401",
+                "answer": "People are too scared to voice any criticism towards me-, though I do feel kinda bad about it.",
+                "scores": [
+                    6004059,
+                    6005192
+                ]
+            },
+            {
+                "id": "190071402",
+                "answer": "People are too scared to voice any criticism towards me-, as they should be.",
+                "scores": [
+                    6003754,
+                    6004267,
+                    6005339,
+                    6009513,
+                    6009632,
+                    6009671,
+                    6009998,
+                    6010285
+                ]
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "question": "What kind of class would you play as in an RPG?",
+        "answers": [
+            {
+                "id": "190071403",
+                "answer": "The Knight -, A brave warrior preferring the sword and shield.",
+                "scores": [
+                    6003438,
+                    6004491,
+                    6004727,
+                    6005487,
+                    6009969
+                ]
+            },
+            {
+                "id": "190071404",
+                "answer": "The Cavalier -, A soldier preferring fighting from horseback.",
+                "scores": [
+                    6003633,
+                    6009476,
+                    6009540
+                ]
+            },
+            {
+                "id": "190071405",
+                "answer": "The Lancer -, An agile fighter with high proficiency with lances and spears.",
+                "scores": [
+                    6003729,
+                    6004416,
+                    6004549
+                ]
+            },
+            {
+                "id": "190071406",
+                "answer": "The Monk -, A fighter that prefers using martial arts as their weapon of choice.",
+                "scores": [
+                    6003563,
+                    6005169,
+                    6005607,
+                    6010462,
+                    6010694
+                ]
+            },
+            {
+                "id": "190071407",
+                "answer": "The Warlock -, A mage that prefers using powerful magic spells to blast away enemies.",
+                "scores": [
+                    6003210,
+                    6003419,
+                    6004705,
+                    6009920
+                ]
+            },
+            {
+                "id": "190071408",
+                "answer": "The Summoner -, A type of mage that summons magical creatures to do the fighting for them.",
+                "scores": [
+                    6003519,
+                    6003686,
+                    6005192,
+                    6005447,
+                    6010652
+                ]
+            },
+            {
+                "id": "190071409",
+                "answer": "The Thief -, A sneaky but speedy rogue that's more proficient in covert work and theft than fighting.",
+                "scores": [
+                    6003290,
+                    6005030,
+                    6009663
+                ]
+            },
+            {
+                "id": "190071410",
+                "answer": "The Assassin -, A rogue that uses poisons to weaken their opponents before skillfully finishing them off.",
+                "scores": [
+                    6003332,
+                    6009459,
+                    6009513,
+                    6009671
+                ]
+            },
+            {
+                "id": "190071411",
+                "answer": "The Healer -, A type of mage that uses their magic to heal the wounds of others.",
+                "scores": [
+                    6003589,
+                    6004282,
+                    6004363,
+                    6009524,
+                    6010044,
+                    6010105
+                ]
+            },
+            {
+                "id": "190071412",
+                "answer": "The Bard -, An archer with proficiency in rallying allies, weakening enemies and persuasion through song and dance.",
+                "scores": [
+                    6003643,
+                    6004126,
+                    6005534,
+                    6009650,
+                    6009952,
+                    6010090
+                ]
+            },
+            {
+                "id": "190071413",
+                "answer": "The Alchemist -, A potion crafter that combines items and magic into powerful concoctions for in battle.",
+                "scores": [
+                    6004182,
+                    6004331,
+                    6004609,
+                    6006925,
+                    6009509,
+                    6010076,
+                    6010304
+                ]
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "question": "Pick the thing that annoys you the most from these.",
+        "answers": [
+            {
+                "id": "190071414",
+                "answer": "The car in front of you not using their turn signals.",
+                "scores": [
+                    6003633,
+                    6005220,
+                    6006925
+                ]
+            },
+            {
+                "id": "190071415",
+                "answer": "Stepping in something wet with socks on.",
+                "scores": [
+                    6003438,
+                    6005030,
+                    6007077,
+                    6010501
+                ]
+            },
+            {
+                "id": "190071416",
+                "answer": "People putting empty containers back in the fridge.",
+                "scores": [
+                    6003332,
+                    6004636,
+                    6005607,
+                    6010105,
+                    6010344
+                ]
+            },
+            {
+                "id": "190071417",
+                "answer": "People not replacing the depleted toilet paper roll with a new one.",
+                "scores": [
+                    6003752,
+                    6005006,
+                    6009524,
+                    6009969
+                ]
+            },
+            {
+                "id": "190071418",
+                "answer": "People showing up late to an appointment or meeting.",
+                "scores": [
+                    6003419,
+                    6004059,
+                    6004727,
+                    6005377,
+                    6010589
+                ]
+            },
+            {
+                "id": "190071419",
+                "answer": "Strangers getting overly familiar with you.",
+                "scores": [
+                    6003563,
+                    6004307,
+                    6006866,
+                    6009605,
+                    6010252
+                ]
+            },
+            {
+                "id": "190071420",
+                "answer": "People keeping their phone's sound on in public.",
+                "scores": [
+                    6003754,
+                    6009899
+                ]
+            },
+            {
+                "id": "190071421",
+                "answer": "Postal services delivering your package to the wrong address.",
+                "scores": [
+                    6003729,
+                    6005169,
+                    6005261,
+                    6009663,
+                    6010285
+                ]
+            },
+            {
+                "id": "190071422",
+                "answer": "People not listening to what you're saying.",
+                "scores": [
+                    6003570,
+                    6004705,
+                    6005339,
+                    6005652,
+                    6009998,
+                    6010426
+                ]
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "question": "Do you think the journey or the destination is more important?",
+        "answers": [
+            {
+                "id": "190071423",
+                "answer": "The journey",
+                "scores": [
+                    6003303,
+                    6003519,
+                    6003686,
+                    6004416,
+                    6005030,
+                    6005377,
+                    6006780,
+                    6009650,
+                    6010044,
+                    6010652
+                ]
+            },
+            {
+                "id": "190071424",
+                "answer": "The destination",
+                "scores": [
+                    6003290,
+                    6004331,
+                    6004363,
+                    6004549,
+                    6004636,
+                    6005006,
+                    6005487,
+                    6005607,
+                    6005652,
+                    6009476,
+                    6009513,
+                    6009671,
+                    6009884
+                ]
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "question": "When you're casually speaking to people, you tend to...",
+        "answers": [
+            {
+                "id": "190071425",
+                "answer": "Stand with your arms folded",
+                "scores": [
+                    6003563,
+                    6004636,
+                    6006866,
+                    6009459,
+                    6010344
+                ]
+            },
+            {
+                "id": "190071426",
+                "answer": "Have your hands clasped behind your back",
+                "scores": [
+                    6003754,
+                    6004267,
+                    6005339,
+                    6009476,
+                    6009524,
+                    6009632,
+                    6009884,
+                    6010614
+                ]
+            },
+            {
+                "id": "190071427",
+                "answer": "Have one or both of your hands on your hips",
+                "scores": [
+                    6003380,
+                    6004727,
+                    6005447,
+                    6007006,
+                    6007077,
+                    6009952,
+                    6009998,
+                    6010304
+                ]
+            },
+            {
+                "id": "190071428",
+                "answer": "Fidget with your hair or rub your face",
+                "scores": [
+                    6003589,
+                    6004282,
+                    6004307,
+                    6005321,
+                    6005534
+                ]
+            },
+            {
+                "id": "190071429",
+                "answer": "Stand with your arms relaxed.",
+                "scores": [
+                    6003210,
+                    6003332,
+                    6004182,
+                    6004491,
+                    6005062,
+                    6009540,
+                    6009650,
+                    6010076
+                ]
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "question": "What does your calendar look like?",
+        "answers": [
+            {
+                "id": "190071430",
+                "answer": "Carefully planned out with plenty of appointments-, pretty much entirely business related.",
+                "scores": [
+                    6003752,
+                    6004059,
+                    6004267,
+                    6005062,
+                    6009509,
+                    6009524,
+                    6010589
+                ]
+            },
+            {
+                "id": "190071431",
+                "answer": "Filled to the brim with all sorts of social activities, birthdays and outings!",
+                "scores": [
+                    6003438,
+                    6004609,
+                    6005030,
+                    6005261,
+                    6009650,
+                    6009952
+                ]
+            },
+            {
+                "id": "190071432",
+                "answer": "It has some important dates listed for both personal and business related matters, but not plenty.",
+                "scores": [
+                    6003210,
+                    6003419,
+                    6004331,
+                    6006925,
+                    6009899,
+                    6010501
+                ]
+            },
+            {
+                "id": "190071433",
+                "answer": "I only use the calendar for keeping track of birthdays from my friends and family.",
+                "scores": [
+                    6003519,
+                    6004126,
+                    6004363,
+                    6005220,
+                    6010105
+                ]
+            },
+            {
+                "id": "190071434",
+                "answer": "I don't use one.",
+                "scores": [
+                    6003332,
+                    6005169,
+                    6005339,
+                    6006780,
+                    6009459
+                ]
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "question": "190071435",
+        "answers": [
+            {
+                "id": "190071436",
+                "answer": "Their eyes",
+                "scores": [
+                    6003438,
+                    6004416,
+                    6005261,
+                    6009663,
+                    6010694
+                ]
+            },
+            {
+                "id": "190071437",
+                "answer": "Their smile",
+                "scores": [
+                    6003303,
+                    6004282,
+                    6009605,
+                    6010426,
+                    6010501
+                ]
+            },
+            {
+                "id": "190071438",
+                "answer": "Their speech mannerisms",
+                "scores": [
+                    6003570,
+                    6004549,
+                    6007077,
+                    6009952,
+                    6010344
+                ]
+            },
+            {
+                "id": "190071439",
+                "answer": "Their clothing",
+                "scores": [
+                    6003380,
+                    6003729,
+                    6007006,
+                    6009650,
+                    6010462
+                ]
+            },
+            {
+                "id": "190071440",
+                "answer": "Their body language",
+                "scores": [
+                    6003290,
+                    6004307,
+                    6004705,
+                    6005321,
+                    6005377,
+                    6009969
+                ]
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "question": "You thought you were safe this far into the quiz from a lyric question? Think again. PICK A LYRIC.",
+        "answers": [
+            {
+                "id": "190071441",
+                "answer": "Under the skin, against the skull\nThey put a little chip so that they know it all",
+                "scores": [
+                    6004416,
+                    6005192,
+                    6005534,
+                    6009524,
+                    6010076,
+                    6010694
+                ]
+            },
+            {
+                "id": "190071442",
+                "answer": "But my words, like silent raindrops fell\nAnd echoed in the wells of silence ",
+                "scores": [
+                    6003643,
+                    6004491,
+                    6005261,
+                    6005447,
+                    6010426
+                ]
+            },
+            {
+                "id": "190071443",
+                "answer": "What's the meaning when you have a broken home, home, home?\nWhere's the love when you were left on your own?",
+                "scores": [
+                    6003332,
+                    6004126,
+                    6004727,
+                    6006925,
+                    6010383
+                ]
+            },
+            {
+                "id": "190071444",
+                "answer": "My world's on fire, how about yours?\nThat's the way I like it and I'll never get bored",
+                "scores": [
+                    6003519,
+                    6004182,
+                    6004609,
+                    6006780,
+                    6009969,
+                    6010090,
+                    6010285
+                ]
+            },
+            {
+                "id": "190071445",
+                "answer": "If I could find a way to see this straight\nI'd run away to some fortune that I should have found by now ",
+                "scores": [
+                    6003589,
+                    6005169,
+                    6005220,
+                    6005607,
+                    6006866
+                ]
+            },
+            {
+                "id": "190071446",
+                "answer": "Master the pain\nThe cradle of your story\nChanged by disdain\nStarting life once more",
+                "scores": [
+                    6003210,
+                    6004549,
+                    6005377,
+                    6009509,
+                    6009920
+                ]
+            },
+            {
+                "id": "190071447",
+                "answer": "fuck you",
+                "scores": [
+                    6003570,
+                    6003754,
+                    6004267,
+                    6005339,
+                    6009459,
+                    6009632,
+                    6009671,
+                    6009884,
+                    6009998,
+                    6010614
+                ]
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "question": "If you could think of *anything* right now, what would you think of?",
+        "answers": [
+            {
+                "id": "190071452",
+                "answer": "A specific person",
+                "scores": [
+                    6003633,
+                    6005261,
+                    6005321,
+                    6005487,
+                    6007077,
+                    6009476,
+                    6009605,
+                    6010589
+                ]
+            },
+            {
+                "id": "190071455",
+                "answer": "The past",
+                "scores": [
+                    6003563,
+                    6003686,
+                    6004549,
+                    6010344
+                ]
+            },
+            {
+                "id": "190071454",
+                "answer": "An idea or goal",
+                "scores": [
+                    6003589,
+                    6004182,
+                    6004267,
+                    6004609,
+                    6005062,
+                    6005192,
+                    6005339,
+                    6009513,
+                    6009632,
+                    6010285
+                ]
+            },
+            {
+                "id": "190071449",
+                "answer": "How I'm feeling right now",
+                "scores": [
+                    6007006,
+                    6010090
+                ]
+            },
+            {
+                "id": "190071453",
+                "answer": "A place",
+                "scores": [
+                    6003380,
+                    6003752
+                ]
+            },
+            {
+                "id": "190071450",
+                "answer": "My family",
+                "scores": [
+                    6003419,
+                    6004363,
+                    6004416,
+                    6004705,
+                    6004727,
+                    6005534
+                ]
+            },
+            {
+                "id": "190071448",
+                "answer": "A particular word or quote",
+                "scores": [
+                    6005030,
+                    6010076
+                ]
+            },
+            {
+                "id": "190071456",
+                "answer": "The future",
+                "scores": [
+                    6003643,
+                    6004282,
+                    6004331,
+                    6004636,
+                    6005652
+                ]
+            },
+            {
+                "id": "190071451",
+                "answer": "My friends",
+                "scores": [
+                    6003290,
+                    6004491
+                ]
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "question": "When backed into a corner, are you able to stand up for yourself properly?",
+        "answers": [
+            {
+                "id": "190071457",
+                "answer": "Yes, always!",
+                "scores": [
+                    6003519,
+                    6004636,
+                    6005192,
+                    6009459,
+                    6009513,
+                    6009969,
+                    6010105,
+                    6010383
+                ]
+            },
+            {
+                "id": "190071458",
+                "answer": "I try, but I struggle sometimes.",
+                "scores": [
+                    6003303,
+                    6004182,
+                    6004282,
+                    6005447,
+                    6009663,
+                    6009899,
+                    6010652
+                ]
+            },
+            {
+                "id": "190071459",
+                "answer": "It depends on the mood or situation.",
+                "scores": [
+                    6003729,
+                    6004491,
+                    6005220,
+                    6005534,
+                    6005607,
+                    6006925,
+                    6010044
+                ]
+            },
+            {
+                "id": "190071460",
+                "answer": "Not that often, but sometimes I'll scrape by and manage!",
+                "scores": [
+                    6004307,
+                    6005377,
+                    6006780,
+                    6009920
+                ]
+            },
+            {
+                "id": "190071461",
+                "answer": "I'm too scared to try most of the time, but there might be rare occasions where I do.",
+                "scores": [
+                    6003589,
+                    6005321,
+                    6006866,
+                    6010694
+                ]
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "question": "Pick a sport! (Yes I know half of you don't care but PICK ONE)",
+        "answers": [
+            {
+                "id": "190071462",
+                "answer": "Swimming",
+                "scores": [
+                    6003729,
+                    6005062,
+                    6009476
+                ]
+            },
+            {
+                "id": "190071463",
+                "answer": "Track and Field",
+                "scores": [
+                    6003752,
+                    6010044
+                ]
+            },
+            {
+                "id": "190071464",
+                "answer": "Judo",
+                "scores": [
+                    6003570,
+                    6005447,
+                    6005607
+                ]
+            },
+            {
+                "id": "190071465",
+                "answer": "Fencing",
+                "scores": [
+                    6003332,
+                    6004727,
+                    6005487,
+                    6009540,
+                    6009969,
+                    6010304
+                ]
+            },
+            {
+                "id": "190071466",
+                "answer": "Gymnastics",
+                "scores": [
+                    6003380,
+                    6010090,
+                    6010344,
+                    6010652
+                ]
+            },
+            {
+                "id": "190071467",
+                "answer": "Dance",
+                "scores": [
+                    6004705,
+                    6005534,
+                    6009650,
+                    6009952
+                ]
+            },
+            {
+                "id": "190071468",
+                "answer": "Boxing",
+                "scores": [
+                    6004059,
+                    6005006
+                ]
+            },
+            {
+                "id": "190071469",
+                "answer": "Archery",
+                "scores": [
+                    6003754,
+                    6004282,
+                    6009920,
+                    6010589
+                ]
+            },
+            {
+                "id": "190071470",
+                "answer": "Soccer",
+                "scores": [
+                    6003438,
+                    6010462
+                ]
+            },
+            {
+                "id": "190071471",
+                "answer": "Rock climbing",
+                "scores": [
+                    6004416,
+                    6004491
+                ]
+            },
+            {
+                "id": "190071472",
+                "answer": "Snowboarding",
+                "scores": [
+                    6003303,
+                    6010501
+                ]
+            },
+            {
+                "id": "190071473",
+                "answer": "Chess counts as a thinking sport, right?",
+                "scores": [
+                    6004331,
+                    6005377,
+                    6007006
+                ]
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "question": "What kind of clothing do you prefer wearing?",
+        "answers": [
+            {
+                "id": "190071474",
+                "answer": "Trendy, cute and fashionable clothing!",
+                "scores": [
+                    6003419,
+                    6007077,
+                    6010090,
+                    6010383,
+                    6010426
+                ]
+            },
+            {
+                "id": "190071475",
+                "answer": "Casual and simple clothing.",
+                "scores": [
+                    6003210,
+                    6003686,
+                    6009663
+                ]
+            },
+            {
+                "id": "190071476",
+                "answer": "Clothing that's comfortable to move around in.",
+                "scores": [
+                    6003438,
+                    6005192,
+                    6005220,
+                    6009605
+                ]
+            },
+            {
+                "id": "190071477",
+                "answer": "Cool looking streetwear.",
+                "scores": [
+                    6003633,
+                    6005006,
+                    6009899,
+                    6010252
+                ]
+            },
+            {
+                "id": "190071478",
+                "answer": "Out-of-the-box clothing that's unique to me!",
+                "scores": [
+                    6003643,
+                    6004491,
+                    6004549,
+                    6004705,
+                    6010076,
+                    6010285,
+                    6010304
+                ]
+            },
+            {
+                "id": "190071479",
+                "answer": "Whatever my job's dress code is.",
+                "scores": [
+                    6003752,
+                    6004363,
+                    6005447,
+                    6006780,
+                    6006866,
+                    6009524,
+                    6009671
+                ]
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "question": "Do you work better alone or in a team?",
+        "answers": [
+            {
+                "id": "190071480",
+                "answer": "Alone",
+                "scores": [
+                    6003570,
+                    6003754,
+                    6004267,
+                    6005321,
+                    6009459,
+                    6009476,
+                    6009524,
+                    6009632,
+                    6009671,
+                    6010652
+                ]
+            },
+            {
+                "id": "190071481",
+                "answer": "In a team",
+                "scores": [
+                    6004182,
+                    6005652,
+                    6006866,
+                    6010501,
+                    6010589,
+                    6010614
+                ]
+            },
+            {
+                "id": "190071482",
+                "answer": "I'm fine either way!",
+                "scores": [
+                    6003303,
+                    6004331,
+                    6010105,
+                    6010462,
+                    6010694
+                ]
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "question": "What kind of regret do you wish to avoid having the most?",
+        "answers": [
+            {
+                "id": "190071483",
+                "answer": "Not having been able to mend that broken relationship that I wished to repair.",
+                "scores": [
+                    6004363,
+                    6005261,
+                    6006925,
+                    6007006,
+                    6010694
+                ]
+            },
+            {
+                "id": "190071484",
+                "answer": "Not having been able to protect the ones I care about the most.",
+                "scores": [
+                    6003419,
+                    6004307,
+                    6004705,
+                    6005534,
+                    6009509,
+                    6009605,
+                    6009969,
+                    6010044,
+                    6010344
+                ]
+            },
+            {
+                "id": "190071485",
+                "answer": "Not having been able to find my true place in the world.",
+                "scores": [
+                    6004126,
+                    6004491,
+                    6005377,
+                    6010462
+                ]
+            },
+            {
+                "id": "190071486",
+                "answer": "Not having been able to get revenge on that one person for what they did to me or people I care about.",
+                "scores": [
+                    6004267,
+                    6005169,
+                    6009513,
+                    6009998,
+                    6010252,
+                    6010383
+                ]
+            },
+            {
+                "id": "190071487",
+                "answer": "Not having been able to obtain the power I desire.",
+                "scores": [
+                    6003754,
+                    6005192,
+                    6005339,
+                    6009632,
+                    6010614
+                ]
+            },
+            {
+                "id": "190071488",
+                "answer": "Not having been able to make the right decision when it mattered the most.",
+                "scores": [
+                    6003210,
+                    6004609
+                ]
+            },
+            {
+                "id": "190071489",
+                "answer": "Not having pushed myself just a little bit harder to make a change.",
+                "scores": [
+                    6003290,
+                    6005220,
+                    6009920
+                ]
+            },
+            {
+                "id": "190071490",
+                "answer": "Not having been able to stay true to myself and my beliefs.",
+                "scores": [
+                    6003380,
+                    6004282
+                ]
+            },
+            {
+                "id": "190071491",
+                "answer": "Not having been able to keep a grip on that one situation that got out of hand.",
+                "scores": [
+                    6003563,
+                    6005652
+                ]
+            },
+            {
+                "id": "190071492",
+                "answer": "I do not experience regrets.",
+                "scores": [
+                    6009540,
+                    6009671,
+                    6009884
+                ]
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "question": "Finally-, a tiebreaker, just in case. Good or Evil?",
+        "answers": [
+            {
+                "id": "190071493",
+                "answer": "Good",
+                "scores": [
+                    6003210,
+                    6003290,
+                    6003303,
+                    6003380,
+                    6003419,
+                    6003438,
+                    6003519,
+                    6003589,
+                    6003633,
+                    6003643,
+                    6003686,
+                    6003729,
+                    6003752,
+                    6004059,
+                    6004126,
+                    6004182,
+                    6004282,
+                    6004307,
+                    6004331,
+                    6004363,
+                    6004416,
+                    6004491,
+                    6004549,
+                    6004609,
+                    6004727,
+                    6005006,
+                    6005030,
+                    6005062,
+                    6005220,
+                    6005261,
+                    6005377,
+                    6005447,
+                    6005534,
+                    6005607,
+                    6006780,
+                    6006866,
+                    6006925,
+                    6009605,
+                    6009650,
+                    6009663,
+                    6009899,
+                    6009920,
+                    6009952,
+                    6009969,
+                    6010044,
+                    6010105,
+                    6010344,
+                    6010426,
+                    6010462,
+                    6010652,
+                    6010694
+                ]
+            },
+            {
+                "id": "190071494",
+                "answer": "Evil",
+                "scores": [
+                    6003570,
+                    6003754,
+                    6004267,
+                    6005339,
+                    6007077,
+                    6009459,
+                    6009476,
+                    6009513,
+                    6009524,
+                    6009540,
+                    6009632,
+                    6009671,
+                    6009884,
+                    6009998,
+                    6010252,
+                    6010614
+                ]
+            },
+            {
+                "id": "190071495",
+                "answer": "Secret third option? ?",
+                "scores": [
+                    6003332,
+                    6003563,
+                    6004636,
+                    6004705,
+                    6005169,
+                    6005192,
+                    6005321,
+                    6005487,
+                    6005652,
+                    6007006,
+                    6009509,
+                    6010076,
+                    6010090,
+                    6010285,
+                    6010304,
+                    6010383,
+                    6010501,
+                    6010589
+                ]
+            }
+        ]
+    }
+]
